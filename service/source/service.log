@@ -1,0 +1,1432 @@
+2017-09-06 11:38:01,036 basestockyoy.py[line:67] INFO ComBalanceYOY perform start
+2017-09-06 11:38:01,207 basestockyoy.py[line:92] INFO perform com code of yoy 1
+2017-09-06 11:38:01,289 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,326 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,359 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,394 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,436 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,469 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,502 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,539 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,569 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,609 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,642 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,677 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,710 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,752 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,785 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,826 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,861 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,894 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:01,947 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,104 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,164 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,203 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,234 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,269 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,302 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,335 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,378 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,411 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,444 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,477 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,510 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,543 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,598 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,627 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,661 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,694 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,727 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,760 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,802 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,835 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,923 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,951 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:02,984 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,019 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,059 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,094 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,128 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,173 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,204 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,237 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,276 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,311 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,368 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,403 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,437 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,470 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,510 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,543 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,576 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,608 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,634 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,667 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,700 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,743 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,776 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,812 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,844 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,885 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:03,974 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,042 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,102 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,134 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,168 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,210 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,253 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,285 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,319 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,351 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,384 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,418 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,453 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,484 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,517 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:04,529 basestockyoy.py[line:121] INFO finish com code 1
+2017-09-06 11:38:04,631 basestockyoy.py[line:92] INFO perform com code of yoy 2
+2017-09-06 11:38:05,286 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,328 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,361 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,394 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,427 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,461 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,494 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,536 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,569 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,602 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,635 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,670 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,703 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,744 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,778 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,812 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,845 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,878 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:05,961 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,052 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,086 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,128 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,161 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,196 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,312 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,345 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,378 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,411 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,444 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,477 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,519 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,571 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,608 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,637 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,687 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,727 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,776 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,868 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:06,984 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,108 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,171 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,295 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,335 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,374 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,411 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,450 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,483 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,519 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,555 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,589 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,622 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,657 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,688 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,775 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,809 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,839 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,880 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,921 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:07,977 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,028 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,058 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,085 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,114 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,151 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,197 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,230 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,263 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,296 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,331 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,368 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,405 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,437 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,471 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,505 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,545 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,619 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,694 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,729 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,759 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,789 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,826 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:08,849 basestockyoy.py[line:121] INFO finish com code 2
+2017-09-06 11:38:08,950 basestockyoy.py[line:92] INFO perform com code of yoy 3
+2017-09-06 11:38:09,151 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,203 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,240 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,282 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,322 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,372 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,434 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,473 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,506 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,591 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,622 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,654 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,709 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,737 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,770 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,805 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,838 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,888 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,921 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:09,956 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,051 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,088 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,128 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,180 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,224 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,259 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,292 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,325 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,358 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,410 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,441 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,474 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,509 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,542 mysqlutils.py[line:183] WARNING last insert id not found
+2017-09-06 11:38:10,582 mysqlutils.py[line:155] WARNING last insert id 199
+2017-09-06 11:38:10,617 mysqlutils.py[line:155] WARNING last insert id 200
+2017-09-06 11:38:10,650 mysqlutils.py[line:155] WARNING last insert id 201
+2017-09-06 11:38:10,716 mysqlutils.py[line:155] WARNING last insert id 202
+2017-09-06 11:38:10,759 mysqlutils.py[line:155] WARNING last insert id 203
+2017-09-06 11:38:10,831 mysqlutils.py[line:155] WARNING last insert id 204
+2017-09-06 11:38:10,871 mysqlutils.py[line:155] WARNING last insert id 205
+2017-09-06 11:38:10,904 mysqlutils.py[line:155] WARNING last insert id 206
+2017-09-06 11:38:10,983 mysqlutils.py[line:155] WARNING last insert id 207
+2017-09-06 11:38:11,032 mysqlutils.py[line:155] WARNING last insert id 208
+2017-09-06 11:38:11,075 mysqlutils.py[line:155] WARNING last insert id 209
+2017-09-06 11:38:11,132 mysqlutils.py[line:155] WARNING last insert id 210
+2017-09-06 11:38:11,174 mysqlutils.py[line:155] WARNING last insert id 211
+2017-09-06 11:38:11,210 mysqlutils.py[line:155] WARNING last insert id 212
+2017-09-06 11:38:11,246 mysqlutils.py[line:155] WARNING last insert id 213
+2017-09-06 11:38:11,279 mysqlutils.py[line:155] WARNING last insert id 214
+2017-09-06 11:38:11,313 mysqlutils.py[line:155] WARNING last insert id 215
+2017-09-06 11:38:11,381 mysqlutils.py[line:155] WARNING last insert id 216
+2017-09-06 11:38:11,418 mysqlutils.py[line:155] WARNING last insert id 217
+2017-09-06 11:38:11,453 mysqlutils.py[line:155] WARNING last insert id 218
+2017-09-06 11:38:11,558 mysqlutils.py[line:155] WARNING last insert id 219
+2017-09-06 11:38:11,594 mysqlutils.py[line:155] WARNING last insert id 220
+2017-09-06 11:38:11,697 mysqlutils.py[line:155] WARNING last insert id 221
+2017-09-06 11:38:11,737 mysqlutils.py[line:155] WARNING last insert id 222
+2017-09-06 11:38:11,772 mysqlutils.py[line:155] WARNING last insert id 223
+2017-09-06 11:38:11,803 mysqlutils.py[line:155] WARNING last insert id 224
+2017-09-06 11:38:11,831 mysqlutils.py[line:155] WARNING last insert id 225
+2017-09-06 11:38:11,864 mysqlutils.py[line:155] WARNING last insert id 226
+2017-09-06 11:38:11,897 mysqlutils.py[line:155] WARNING last insert id 227
+2017-09-06 11:38:11,938 mysqlutils.py[line:155] WARNING last insert id 228
+2017-09-06 11:38:11,974 mysqlutils.py[line:155] WARNING last insert id 229
+2017-09-06 11:38:12,072 mysqlutils.py[line:155] WARNING last insert id 230
+2017-09-06 11:38:12,134 mysqlutils.py[line:155] WARNING last insert id 231
+2017-09-06 11:38:12,184 mysqlutils.py[line:155] WARNING last insert id 232
+2017-09-06 11:38:12,214 mysqlutils.py[line:155] WARNING last insert id 233
+2017-09-06 11:38:12,255 mysqlutils.py[line:155] WARNING last insert id 234
+2017-09-06 11:38:12,279 mysqlutils.py[line:155] WARNING last insert id 235
+2017-09-06 11:38:12,305 mysqlutils.py[line:155] WARNING last insert id 236
+2017-09-06 11:38:12,338 mysqlutils.py[line:155] WARNING last insert id 237
+2017-09-06 11:38:12,362 mysqlutils.py[line:155] WARNING last insert id 238
+2017-09-06 11:38:12,394 mysqlutils.py[line:155] WARNING last insert id 239
+2017-09-06 11:38:12,499 mysqlutils.py[line:155] WARNING last insert id 240
+2017-09-06 11:38:12,563 mysqlutils.py[line:155] WARNING last insert id 241
+2017-09-06 11:38:12,605 mysqlutils.py[line:155] WARNING last insert id 242
+2017-09-06 11:38:12,654 mysqlutils.py[line:155] WARNING last insert id 243
+2017-09-06 11:38:12,696 mysqlutils.py[line:155] WARNING last insert id 244
+2017-09-06 11:38:12,709 basestockyoy.py[line:121] INFO finish com code 3
+2017-09-06 11:38:12,809 basestockyoy.py[line:92] INFO perform com code of yoy 4
+2017-09-06 11:38:12,980 mysqlutils.py[line:155] WARNING last insert id 245
+2017-09-06 11:38:13,013 mysqlutils.py[line:155] WARNING last insert id 246
+2017-09-06 11:38:13,073 mysqlutils.py[line:155] WARNING last insert id 247
+2017-09-06 11:38:13,105 mysqlutils.py[line:155] WARNING last insert id 248
+2017-09-06 11:38:13,138 mysqlutils.py[line:155] WARNING last insert id 249
+2017-09-06 11:38:13,200 mysqlutils.py[line:155] WARNING last insert id 250
+2017-09-06 11:38:13,230 mysqlutils.py[line:155] WARNING last insert id 251
+2017-09-06 11:38:13,263 mysqlutils.py[line:155] WARNING last insert id 252
+2017-09-06 11:38:13,315 mysqlutils.py[line:155] WARNING last insert id 253
+2017-09-06 11:38:13,357 mysqlutils.py[line:155] WARNING last insert id 254
+2017-09-06 11:38:13,398 mysqlutils.py[line:155] WARNING last insert id 255
+2017-09-06 11:38:13,469 mysqlutils.py[line:155] WARNING last insert id 256
+2017-09-06 11:38:13,505 mysqlutils.py[line:155] WARNING last insert id 257
+2017-09-06 11:38:13,533 mysqlutils.py[line:155] WARNING last insert id 258
+2017-09-06 11:38:13,565 mysqlutils.py[line:155] WARNING last insert id 259
+2017-09-06 11:38:13,644 mysqlutils.py[line:155] WARNING last insert id 260
+2017-09-06 11:38:13,732 mysqlutils.py[line:155] WARNING last insert id 261
+2017-09-06 11:38:13,773 mysqlutils.py[line:155] WARNING last insert id 262
+2017-09-06 11:38:13,805 mysqlutils.py[line:155] WARNING last insert id 263
+2017-09-06 11:38:13,829 mysqlutils.py[line:155] WARNING last insert id 264
+2017-09-06 11:38:13,855 mysqlutils.py[line:155] WARNING last insert id 265
+2017-09-06 11:38:13,884 mysqlutils.py[line:155] WARNING last insert id 266
+2017-09-06 11:38:13,944 mysqlutils.py[line:155] WARNING last insert id 267
+2017-09-06 11:38:14,132 mysqlutils.py[line:155] WARNING last insert id 268
+2017-09-06 11:38:14,318 mysqlutils.py[line:155] WARNING last insert id 269
+2017-09-06 11:38:14,411 mysqlutils.py[line:155] WARNING last insert id 270
+2017-09-06 11:38:14,459 mysqlutils.py[line:155] WARNING last insert id 271
+2017-09-06 11:38:14,500 mysqlutils.py[line:155] WARNING last insert id 272
+2017-09-06 11:38:14,558 mysqlutils.py[line:155] WARNING last insert id 273
+2017-09-06 11:38:14,608 mysqlutils.py[line:155] WARNING last insert id 274
+2017-09-06 11:38:14,660 mysqlutils.py[line:155] WARNING last insert id 275
+2017-09-06 11:38:14,808 mysqlutils.py[line:155] WARNING last insert id 276
+2017-09-06 11:38:14,926 mysqlutils.py[line:155] WARNING last insert id 277
+2017-09-06 11:38:14,997 mysqlutils.py[line:155] WARNING last insert id 278
+2017-09-06 11:38:15,056 mysqlutils.py[line:155] WARNING last insert id 279
+2017-09-06 11:38:15,091 mysqlutils.py[line:155] WARNING last insert id 280
+2017-09-06 11:38:15,141 mysqlutils.py[line:155] WARNING last insert id 281
+2017-09-06 11:38:15,183 mysqlutils.py[line:155] WARNING last insert id 282
+2017-09-06 11:38:15,214 mysqlutils.py[line:155] WARNING last insert id 283
+2017-09-06 11:38:15,282 mysqlutils.py[line:155] WARNING last insert id 284
+2017-09-06 11:38:15,315 mysqlutils.py[line:155] WARNING last insert id 285
+2017-09-06 11:38:15,348 mysqlutils.py[line:155] WARNING last insert id 286
+2017-09-06 11:38:15,411 mysqlutils.py[line:155] WARNING last insert id 287
+2017-09-06 11:38:15,438 mysqlutils.py[line:155] WARNING last insert id 288
+2017-09-06 11:38:15,473 mysqlutils.py[line:155] WARNING last insert id 289
+2017-09-06 11:38:15,533 mysqlutils.py[line:155] WARNING last insert id 290
+2017-09-06 11:38:15,565 mysqlutils.py[line:155] WARNING last insert id 291
+2017-09-06 11:38:15,608 mysqlutils.py[line:155] WARNING last insert id 292
+2017-09-06 11:38:15,648 mysqlutils.py[line:155] WARNING last insert id 293
+2017-09-06 11:38:15,681 mysqlutils.py[line:155] WARNING last insert id 294
+2017-09-06 11:38:15,714 mysqlutils.py[line:155] WARNING last insert id 295
+2017-09-06 11:38:15,773 mysqlutils.py[line:155] WARNING last insert id 296
+2017-09-06 11:38:15,805 mysqlutils.py[line:155] WARNING last insert id 297
+2017-09-06 11:38:15,838 mysqlutils.py[line:155] WARNING last insert id 298
+2017-09-06 11:38:16,016 mysqlutils.py[line:155] WARNING last insert id 299
+2017-09-06 11:38:16,131 mysqlutils.py[line:155] WARNING last insert id 300
+2017-09-06 11:38:16,194 mysqlutils.py[line:155] WARNING last insert id 301
+2017-09-06 11:38:16,265 mysqlutils.py[line:155] WARNING last insert id 302
+2017-09-06 11:38:16,336 mysqlutils.py[line:155] WARNING last insert id 303
+2017-09-06 11:38:16,454 mysqlutils.py[line:155] WARNING last insert id 304
+2017-09-06 11:38:16,513 mysqlutils.py[line:155] WARNING last insert id 305
+2017-09-06 11:38:16,549 mysqlutils.py[line:155] WARNING last insert id 306
+2017-09-06 11:38:16,638 mysqlutils.py[line:155] WARNING last insert id 307
+2017-09-06 11:38:16,690 mysqlutils.py[line:155] WARNING last insert id 308
+2017-09-06 11:38:16,730 mysqlutils.py[line:155] WARNING last insert id 309
+2017-09-06 11:38:16,789 mysqlutils.py[line:155] WARNING last insert id 310
+2017-09-06 11:38:16,835 mysqlutils.py[line:155] WARNING last insert id 311
+2017-09-06 11:38:16,865 mysqlutils.py[line:155] WARNING last insert id 312
+2017-09-06 11:38:16,890 mysqlutils.py[line:155] WARNING last insert id 313
+2017-09-06 11:38:16,923 mysqlutils.py[line:155] WARNING last insert id 314
+2017-09-06 11:38:16,966 mysqlutils.py[line:155] WARNING last insert id 315
+2017-09-06 11:38:17,059 mysqlutils.py[line:155] WARNING last insert id 316
+2017-09-06 11:38:17,095 mysqlutils.py[line:155] WARNING last insert id 317
+2017-09-06 11:38:17,124 mysqlutils.py[line:155] WARNING last insert id 318
+2017-09-06 11:38:17,221 mysqlutils.py[line:155] WARNING last insert id 319
+2017-09-06 11:38:17,285 mysqlutils.py[line:155] WARNING last insert id 320
+2017-09-06 11:38:17,431 mysqlutils.py[line:155] WARNING last insert id 321
+2017-09-06 11:38:17,476 mysqlutils.py[line:155] WARNING last insert id 322
+2017-09-06 11:38:17,507 mysqlutils.py[line:155] WARNING last insert id 323
+2017-09-06 11:38:17,539 mysqlutils.py[line:155] WARNING last insert id 324
+2017-09-06 11:38:17,576 mysqlutils.py[line:155] WARNING last insert id 325
+2017-09-06 11:38:17,624 mysqlutils.py[line:155] WARNING last insert id 326
+2017-09-06 11:38:17,635 basestockyoy.py[line:121] INFO finish com code 4
+2017-09-06 11:38:17,736 basestockyoy.py[line:92] INFO perform com code of yoy 5
+2017-09-06 11:38:17,875 mysqlutils.py[line:155] WARNING last insert id 327
+2017-09-06 11:38:17,917 mysqlutils.py[line:155] WARNING last insert id 328
+2017-09-06 11:38:17,950 mysqlutils.py[line:155] WARNING last insert id 329
+2017-09-06 11:38:18,019 mysqlutils.py[line:155] WARNING last insert id 330
+2017-09-06 11:38:18,105 mysqlutils.py[line:155] WARNING last insert id 331
+2017-09-06 11:38:18,132 mysqlutils.py[line:155] WARNING last insert id 332
+2017-09-06 11:38:18,167 mysqlutils.py[line:155] WARNING last insert id 333
+2017-09-06 11:38:18,200 mysqlutils.py[line:155] WARNING last insert id 334
+2017-09-06 11:38:18,250 mysqlutils.py[line:155] WARNING last insert id 335
+2017-09-06 11:38:18,292 mysqlutils.py[line:155] WARNING last insert id 336
+2017-09-06 11:38:18,332 mysqlutils.py[line:155] WARNING last insert id 337
+2017-09-06 11:38:18,377 mysqlutils.py[line:155] WARNING last insert id 338
+2017-09-06 11:38:18,413 mysqlutils.py[line:155] WARNING last insert id 339
+2017-09-06 11:38:18,446 mysqlutils.py[line:155] WARNING last insert id 340
+2017-09-06 11:38:18,480 mysqlutils.py[line:155] WARNING last insert id 341
+2017-09-06 11:38:18,519 mysqlutils.py[line:155] WARNING last insert id 342
+2017-09-06 11:38:18,551 mysqlutils.py[line:155] WARNING last insert id 343
+2017-09-06 11:38:18,585 mysqlutils.py[line:155] WARNING last insert id 344
+2017-09-06 11:38:18,618 mysqlutils.py[line:155] WARNING last insert id 345
+2017-09-06 11:38:18,653 mysqlutils.py[line:155] WARNING last insert id 346
+2017-09-06 11:38:18,775 mysqlutils.py[line:155] WARNING last insert id 347
+2017-09-06 11:38:18,813 mysqlutils.py[line:155] WARNING last insert id 348
+2017-09-06 11:38:18,849 mysqlutils.py[line:155] WARNING last insert id 349
+2017-09-06 11:38:19,003 mysqlutils.py[line:155] WARNING last insert id 350
+2017-09-06 11:38:19,065 mysqlutils.py[line:155] WARNING last insert id 351
+2017-09-06 11:38:19,111 mysqlutils.py[line:155] WARNING last insert id 352
+2017-09-06 11:38:19,190 mysqlutils.py[line:155] WARNING last insert id 353
+2017-09-06 11:38:19,230 mysqlutils.py[line:155] WARNING last insert id 354
+2017-09-06 11:38:19,263 mysqlutils.py[line:155] WARNING last insert id 355
+2017-09-06 11:38:19,296 mysqlutils.py[line:155] WARNING last insert id 356
+2017-09-06 11:38:19,332 mysqlutils.py[line:155] WARNING last insert id 357
+2017-09-06 11:38:19,388 mysqlutils.py[line:155] WARNING last insert id 358
+2017-09-06 11:38:19,417 mysqlutils.py[line:155] WARNING last insert id 359
+2017-09-06 11:38:19,450 mysqlutils.py[line:155] WARNING last insert id 360
+2017-09-06 11:38:19,500 mysqlutils.py[line:155] WARNING last insert id 361
+2017-09-06 11:38:19,533 mysqlutils.py[line:155] WARNING last insert id 362
+2017-09-06 11:38:19,566 mysqlutils.py[line:155] WARNING last insert id 363
+2017-09-06 11:38:19,644 mysqlutils.py[line:155] WARNING last insert id 364
+2017-09-06 11:38:19,680 mysqlutils.py[line:155] WARNING last insert id 365
+2017-09-06 11:38:19,736 mysqlutils.py[line:155] WARNING last insert id 366
+2017-09-06 11:38:19,769 mysqlutils.py[line:155] WARNING last insert id 367
+2017-09-06 11:38:19,803 mysqlutils.py[line:155] WARNING last insert id 368
+2017-09-06 11:38:19,846 mysqlutils.py[line:155] WARNING last insert id 369
+2017-09-06 11:38:19,878 mysqlutils.py[line:155] WARNING last insert id 370
+2017-09-06 11:38:19,933 mysqlutils.py[line:155] WARNING last insert id 371
+2017-09-06 11:38:20,036 mysqlutils.py[line:155] WARNING last insert id 372
+2017-09-06 11:38:20,075 mysqlutils.py[line:155] WARNING last insert id 373
+2017-09-06 11:38:20,154 mysqlutils.py[line:155] WARNING last insert id 374
+2017-09-06 11:38:20,184 mysqlutils.py[line:155] WARNING last insert id 375
+2017-09-06 11:38:20,217 mysqlutils.py[line:155] WARNING last insert id 376
+2017-09-06 11:38:20,250 mysqlutils.py[line:155] WARNING last insert id 377
+2017-09-06 11:38:20,309 mysqlutils.py[line:155] WARNING last insert id 378
+2017-09-06 11:38:20,357 mysqlutils.py[line:155] WARNING last insert id 379
+2017-09-06 11:38:20,384 mysqlutils.py[line:155] WARNING last insert id 380
+2017-09-06 11:38:20,463 mysqlutils.py[line:155] WARNING last insert id 381
+2017-09-06 11:38:20,505 mysqlutils.py[line:155] WARNING last insert id 382
+2017-09-06 11:38:20,543 mysqlutils.py[line:155] WARNING last insert id 383
+2017-09-06 11:38:20,604 mysqlutils.py[line:155] WARNING last insert id 384
+2017-09-06 11:38:20,644 mysqlutils.py[line:155] WARNING last insert id 385
+2017-09-06 11:38:20,674 mysqlutils.py[line:155] WARNING last insert id 386
+2017-09-06 11:38:20,744 mysqlutils.py[line:155] WARNING last insert id 387
+2017-09-06 11:38:20,773 mysqlutils.py[line:155] WARNING last insert id 388
+2017-09-06 11:38:20,799 mysqlutils.py[line:155] WARNING last insert id 389
+2017-09-06 11:38:20,871 mysqlutils.py[line:155] WARNING last insert id 390
+2017-09-06 11:38:20,908 mysqlutils.py[line:155] WARNING last insert id 391
+2017-09-06 11:38:20,967 mysqlutils.py[line:155] WARNING last insert id 392
+2017-09-06 11:38:21,022 mysqlutils.py[line:155] WARNING last insert id 393
+2017-09-06 11:38:21,051 mysqlutils.py[line:155] WARNING last insert id 394
+2017-09-06 11:38:21,144 mysqlutils.py[line:155] WARNING last insert id 395
+2017-09-06 11:38:21,174 mysqlutils.py[line:155] WARNING last insert id 396
+2017-09-06 11:38:21,201 mysqlutils.py[line:155] WARNING last insert id 397
+2017-09-06 11:38:21,233 mysqlutils.py[line:155] WARNING last insert id 398
+2017-09-06 11:38:21,267 mysqlutils.py[line:155] WARNING last insert id 399
+2017-09-06 11:38:21,357 mysqlutils.py[line:155] WARNING last insert id 400
+2017-09-06 11:38:21,413 mysqlutils.py[line:155] WARNING last insert id 401
+2017-09-06 11:38:21,513 mysqlutils.py[line:155] WARNING last insert id 402
+2017-09-06 11:38:21,565 mysqlutils.py[line:155] WARNING last insert id 403
+2017-09-06 11:38:21,599 mysqlutils.py[line:155] WARNING last insert id 404
+2017-09-06 11:38:21,684 mysqlutils.py[line:155] WARNING last insert id 405
+2017-09-06 11:38:21,719 mysqlutils.py[line:155] WARNING last insert id 406
+2017-09-06 11:38:21,796 mysqlutils.py[line:155] WARNING last insert id 407
+2017-09-06 11:38:21,825 mysqlutils.py[line:155] WARNING last insert id 408
+2017-09-06 11:38:21,845 basestockyoy.py[line:121] INFO finish com code 5
+2017-09-06 11:38:21,947 basestockyoy.py[line:92] INFO perform com code of yoy 6
+2017-09-06 11:38:22,112 mysqlutils.py[line:155] WARNING last insert id 409
+2017-09-06 11:38:22,158 mysqlutils.py[line:155] WARNING last insert id 410
+2017-09-06 11:38:22,184 mysqlutils.py[line:155] WARNING last insert id 411
+2017-09-06 11:38:22,226 mysqlutils.py[line:155] WARNING last insert id 412
+2017-09-06 11:38:22,259 mysqlutils.py[line:155] WARNING last insert id 413
+2017-09-06 11:38:22,301 mysqlutils.py[line:155] WARNING last insert id 414
+2017-09-06 11:38:22,334 mysqlutils.py[line:155] WARNING last insert id 415
+2017-09-06 11:38:22,375 mysqlutils.py[line:155] WARNING last insert id 416
+2017-09-06 11:38:22,401 mysqlutils.py[line:155] WARNING last insert id 417
+2017-09-06 11:38:22,434 mysqlutils.py[line:155] WARNING last insert id 418
+2017-09-06 11:38:22,529 mysqlutils.py[line:155] WARNING last insert id 419
+2017-09-06 11:38:22,586 mysqlutils.py[line:155] WARNING last insert id 420
+2017-09-06 11:38:22,661 mysqlutils.py[line:155] WARNING last insert id 421
+2017-09-06 11:38:22,717 mysqlutils.py[line:155] WARNING last insert id 422
+2017-09-06 11:38:22,785 mysqlutils.py[line:155] WARNING last insert id 423
+2017-09-06 11:38:22,818 mysqlutils.py[line:155] WARNING last insert id 424
+2017-09-06 11:38:22,861 mysqlutils.py[line:155] WARNING last insert id 425
+2017-09-06 11:38:22,901 mysqlutils.py[line:155] WARNING last insert id 426
+2017-09-06 11:38:22,937 mysqlutils.py[line:155] WARNING last insert id 427
+2017-09-06 11:38:22,976 mysqlutils.py[line:155] WARNING last insert id 428
+2017-09-06 11:38:23,019 mysqlutils.py[line:155] WARNING last insert id 429
+2017-09-06 11:38:23,088 mysqlutils.py[line:155] WARNING last insert id 430
+2017-09-06 11:38:23,127 mysqlutils.py[line:155] WARNING last insert id 431
+2017-09-06 11:38:23,160 mysqlutils.py[line:155] WARNING last insert id 432
+2017-09-06 11:38:23,197 mysqlutils.py[line:155] WARNING last insert id 433
+2017-09-06 11:38:23,306 mysqlutils.py[line:155] WARNING last insert id 434
+2017-09-06 11:38:23,355 mysqlutils.py[line:155] WARNING last insert id 435
+2017-09-06 11:38:23,509 mysqlutils.py[line:155] WARNING last insert id 436
+2017-09-06 11:38:23,551 mysqlutils.py[line:155] WARNING last insert id 437
+2017-09-06 11:38:23,584 mysqlutils.py[line:155] WARNING last insert id 438
+2017-09-06 11:38:23,635 mysqlutils.py[line:155] WARNING last insert id 439
+2017-09-06 11:38:23,691 mysqlutils.py[line:155] WARNING last insert id 440
+2017-09-06 11:38:23,729 mysqlutils.py[line:155] WARNING last insert id 441
+2017-09-06 11:38:23,772 mysqlutils.py[line:155] WARNING last insert id 442
+2017-09-06 11:38:23,822 mysqlutils.py[line:155] WARNING last insert id 443
+2017-09-06 11:38:23,864 mysqlutils.py[line:155] WARNING last insert id 444
+2017-09-06 11:38:23,914 mysqlutils.py[line:155] WARNING last insert id 445
+2017-09-06 11:38:23,982 mysqlutils.py[line:155] WARNING last insert id 446
+2017-09-06 11:38:24,173 mysqlutils.py[line:155] WARNING last insert id 447
+2017-09-06 11:38:24,257 mysqlutils.py[line:155] WARNING last insert id 448
+2017-09-06 11:38:24,295 mysqlutils.py[line:155] WARNING last insert id 449
+2017-09-06 11:38:24,335 mysqlutils.py[line:155] WARNING last insert id 450
+2017-09-06 11:38:24,368 mysqlutils.py[line:155] WARNING last insert id 451
+2017-09-06 11:38:24,410 mysqlutils.py[line:155] WARNING last insert id 452
+2017-09-06 11:38:24,469 mysqlutils.py[line:155] WARNING last insert id 453
+2017-09-06 11:38:24,509 mysqlutils.py[line:155] WARNING last insert id 454
+2017-09-06 11:38:24,543 mysqlutils.py[line:155] WARNING last insert id 455
+2017-09-06 11:38:24,588 mysqlutils.py[line:155] WARNING last insert id 456
+2017-09-06 11:38:24,627 mysqlutils.py[line:155] WARNING last insert id 457
+2017-09-06 11:38:24,660 mysqlutils.py[line:155] WARNING last insert id 458
+2017-09-06 11:38:24,746 mysqlutils.py[line:155] WARNING last insert id 459
+2017-09-06 11:38:24,799 mysqlutils.py[line:155] WARNING last insert id 460
+2017-09-06 11:38:24,835 mysqlutils.py[line:155] WARNING last insert id 461
+2017-09-06 11:38:24,877 mysqlutils.py[line:155] WARNING last insert id 462
+2017-09-06 11:38:24,927 mysqlutils.py[line:155] WARNING last insert id 463
+2017-09-06 11:38:24,970 mysqlutils.py[line:155] WARNING last insert id 464
+2017-09-06 11:38:25,009 mysqlutils.py[line:155] WARNING last insert id 465
+2017-09-06 11:38:25,046 mysqlutils.py[line:155] WARNING last insert id 466
+2017-09-06 11:38:25,094 mysqlutils.py[line:155] WARNING last insert id 467
+2017-09-06 11:38:25,134 mysqlutils.py[line:155] WARNING last insert id 468
+2017-09-06 11:38:25,181 mysqlutils.py[line:155] WARNING last insert id 469
+2017-09-06 11:38:25,217 mysqlutils.py[line:155] WARNING last insert id 470
+2017-09-06 11:38:25,252 mysqlutils.py[line:155] WARNING last insert id 471
+2017-09-06 11:38:25,303 mysqlutils.py[line:155] WARNING last insert id 472
+2017-09-06 11:38:25,381 mysqlutils.py[line:155] WARNING last insert id 473
+2017-09-06 11:38:25,431 mysqlutils.py[line:155] WARNING last insert id 474
+2017-09-06 11:38:25,506 mysqlutils.py[line:155] WARNING last insert id 475
+2017-09-06 11:38:25,555 mysqlutils.py[line:155] WARNING last insert id 476
+2017-09-06 11:38:25,605 mysqlutils.py[line:155] WARNING last insert id 477
+2017-09-06 11:38:25,680 mysqlutils.py[line:155] WARNING last insert id 478
+2017-09-06 11:38:25,726 mysqlutils.py[line:155] WARNING last insert id 479
+2017-09-06 11:38:25,772 mysqlutils.py[line:155] WARNING last insert id 480
+2017-09-06 11:38:25,845 mysqlutils.py[line:155] WARNING last insert id 481
+2017-09-06 11:38:25,895 mysqlutils.py[line:155] WARNING last insert id 482
+2017-09-06 11:38:26,033 mysqlutils.py[line:155] WARNING last insert id 483
+2017-09-06 11:38:26,125 mysqlutils.py[line:155] WARNING last insert id 484
+2017-09-06 11:38:26,180 mysqlutils.py[line:155] WARNING last insert id 485
+2017-09-06 11:38:26,223 mysqlutils.py[line:155] WARNING last insert id 486
+2017-09-06 11:38:26,269 mysqlutils.py[line:155] WARNING last insert id 487
+2017-09-06 11:38:26,299 basestockyoy.py[line:121] INFO finish com code 6
+2017-09-06 11:38:26,400 basestockyoy.py[line:92] INFO perform com code of yoy 7
+2017-09-06 11:38:26,601 mysqlutils.py[line:155] WARNING last insert id 488
+2017-09-06 11:38:26,651 mysqlutils.py[line:155] WARNING last insert id 489
+2017-09-06 11:38:26,709 mysqlutils.py[line:155] WARNING last insert id 490
+2017-09-06 11:38:26,753 mysqlutils.py[line:155] WARNING last insert id 491
+2017-09-06 11:38:26,805 mysqlutils.py[line:155] WARNING last insert id 492
+2017-09-06 11:38:26,848 mysqlutils.py[line:155] WARNING last insert id 493
+2017-09-06 11:38:26,911 mysqlutils.py[line:155] WARNING last insert id 494
+2017-09-06 11:38:26,973 mysqlutils.py[line:155] WARNING last insert id 495
+2017-09-06 11:38:27,042 mysqlutils.py[line:155] WARNING last insert id 496
+2017-09-06 11:38:27,082 mysqlutils.py[line:155] WARNING last insert id 497
+2017-09-06 11:38:27,128 mysqlutils.py[line:155] WARNING last insert id 498
+2017-09-06 11:38:27,174 mysqlutils.py[line:155] WARNING last insert id 499
+2017-09-06 11:38:27,247 mysqlutils.py[line:155] WARNING last insert id 500
+2017-09-06 11:38:27,289 mysqlutils.py[line:155] WARNING last insert id 501
+2017-09-06 11:38:27,328 mysqlutils.py[line:155] WARNING last insert id 502
+2017-09-06 11:38:27,372 mysqlutils.py[line:155] WARNING last insert id 503
+2017-09-06 11:38:27,482 mysqlutils.py[line:155] WARNING last insert id 504
+2017-09-06 11:38:27,532 mysqlutils.py[line:155] WARNING last insert id 505
+2017-09-06 11:38:27,618 mysqlutils.py[line:155] WARNING last insert id 506
+2017-09-06 11:38:27,664 mysqlutils.py[line:155] WARNING last insert id 507
+2017-09-06 11:38:27,752 mysqlutils.py[line:155] WARNING last insert id 508
+2017-09-06 11:38:27,799 mysqlutils.py[line:155] WARNING last insert id 509
+2017-09-06 11:38:27,900 mysqlutils.py[line:155] WARNING last insert id 510
+2017-09-06 11:38:27,953 mysqlutils.py[line:155] WARNING last insert id 511
+2017-09-06 11:38:28,085 mysqlutils.py[line:155] WARNING last insert id 512
+2017-09-06 11:38:28,141 mysqlutils.py[line:155] WARNING last insert id 513
+2017-09-06 11:38:28,187 mysqlutils.py[line:155] WARNING last insert id 514
+2017-09-06 11:38:28,229 mysqlutils.py[line:155] WARNING last insert id 515
+2017-09-06 11:38:28,262 mysqlutils.py[line:155] WARNING last insert id 516
+2017-09-06 11:38:28,306 mysqlutils.py[line:155] WARNING last insert id 517
+2017-09-06 11:38:28,345 mysqlutils.py[line:155] WARNING last insert id 518
+2017-09-06 11:38:28,390 mysqlutils.py[line:155] WARNING last insert id 519
+2017-09-06 11:38:28,430 mysqlutils.py[line:155] WARNING last insert id 520
+2017-09-06 11:38:28,470 mysqlutils.py[line:155] WARNING last insert id 521
+2017-09-06 11:38:28,516 mysqlutils.py[line:155] WARNING last insert id 522
+2017-09-06 11:38:28,556 mysqlutils.py[line:155] WARNING last insert id 523
+2017-09-06 11:38:28,630 mysqlutils.py[line:155] WARNING last insert id 524
+2017-09-06 11:38:28,674 mysqlutils.py[line:155] WARNING last insert id 525
+2017-09-06 11:38:28,720 mysqlutils.py[line:155] WARNING last insert id 526
+2017-09-06 11:38:28,763 mysqlutils.py[line:155] WARNING last insert id 527
+2017-09-06 11:38:28,819 mysqlutils.py[line:155] WARNING last insert id 528
+2017-09-06 11:38:28,854 mysqlutils.py[line:155] WARNING last insert id 529
+2017-09-06 11:38:28,911 mysqlutils.py[line:155] WARNING last insert id 530
+2017-09-06 11:38:28,946 mysqlutils.py[line:155] WARNING last insert id 531
+2017-09-06 11:38:28,990 mysqlutils.py[line:155] WARNING last insert id 532
+2017-09-06 11:38:29,029 mysqlutils.py[line:155] WARNING last insert id 533
+2017-09-06 11:38:29,065 mysqlutils.py[line:155] WARNING last insert id 534
+2017-09-06 11:38:29,117 mysqlutils.py[line:155] WARNING last insert id 535
+2017-09-06 11:38:29,161 mysqlutils.py[line:155] WARNING last insert id 536
+2017-09-06 11:38:29,217 mysqlutils.py[line:155] WARNING last insert id 537
+2017-09-06 11:38:29,266 mysqlutils.py[line:155] WARNING last insert id 538
+2017-09-06 11:38:29,303 mysqlutils.py[line:155] WARNING last insert id 539
+2017-09-06 11:38:29,361 mysqlutils.py[line:155] WARNING last insert id 540
+2017-09-06 11:38:29,395 mysqlutils.py[line:155] WARNING last insert id 541
+2017-09-06 11:38:29,477 mysqlutils.py[line:155] WARNING last insert id 542
+2017-09-06 11:38:29,523 mysqlutils.py[line:155] WARNING last insert id 543
+2017-09-06 11:38:29,569 mysqlutils.py[line:155] WARNING last insert id 544
+2017-09-06 11:38:29,604 mysqlutils.py[line:155] WARNING last insert id 545
+2017-09-06 11:38:29,640 mysqlutils.py[line:155] WARNING last insert id 546
+2017-09-06 11:38:29,678 mysqlutils.py[line:155] WARNING last insert id 547
+2017-09-06 11:38:29,713 mysqlutils.py[line:155] WARNING last insert id 548
+2017-09-06 11:38:29,756 mysqlutils.py[line:155] WARNING last insert id 549
+2017-09-06 11:38:29,786 mysqlutils.py[line:155] WARNING last insert id 550
+2017-09-06 11:38:29,822 mysqlutils.py[line:155] WARNING last insert id 551
+2017-09-06 11:38:29,854 mysqlutils.py[line:155] WARNING last insert id 552
+2017-09-06 11:38:29,891 mysqlutils.py[line:155] WARNING last insert id 553
+2017-09-06 11:38:29,933 mysqlutils.py[line:155] WARNING last insert id 554
+2017-09-06 11:38:29,982 mysqlutils.py[line:155] WARNING last insert id 555
+2017-09-06 11:38:30,039 mysqlutils.py[line:155] WARNING last insert id 556
+2017-09-06 11:38:30,078 mysqlutils.py[line:155] WARNING last insert id 557
+2017-09-06 11:38:30,132 mysqlutils.py[line:155] WARNING last insert id 558
+2017-09-06 11:38:30,177 mysqlutils.py[line:155] WARNING last insert id 559
+2017-09-06 11:38:30,298 mysqlutils.py[line:155] WARNING last insert id 560
+2017-09-06 11:38:30,355 mysqlutils.py[line:155] WARNING last insert id 561
+2017-09-06 11:38:30,414 mysqlutils.py[line:155] WARNING last insert id 562
+2017-09-06 11:38:30,463 mysqlutils.py[line:155] WARNING last insert id 563
+2017-09-06 11:38:30,494 mysqlutils.py[line:155] WARNING last insert id 564
+2017-09-06 11:38:30,532 mysqlutils.py[line:155] WARNING last insert id 565
+2017-09-06 11:38:30,589 mysqlutils.py[line:155] WARNING last insert id 566
+2017-09-06 11:38:30,648 mysqlutils.py[line:155] WARNING last insert id 567
+2017-09-06 11:38:30,696 mysqlutils.py[line:155] WARNING last insert id 568
+2017-09-06 11:38:30,732 mysqlutils.py[line:155] WARNING last insert id 569
+2017-09-06 11:38:30,757 basestockyoy.py[line:121] INFO finish com code 7
+2017-09-06 11:38:30,858 basestockyoy.py[line:92] INFO perform com code of yoy 8
+2017-09-06 11:38:31,430 mysqlutils.py[line:155] WARNING last insert id 570
+2017-09-06 11:38:31,479 mysqlutils.py[line:155] WARNING last insert id 571
+2017-09-06 11:38:31,516 mysqlutils.py[line:155] WARNING last insert id 572
+2017-09-06 11:38:31,559 mysqlutils.py[line:155] WARNING last insert id 573
+2017-09-06 11:38:31,608 mysqlutils.py[line:155] WARNING last insert id 574
+2017-09-06 11:38:31,667 mysqlutils.py[line:155] WARNING last insert id 575
+2017-09-06 11:38:31,720 mysqlutils.py[line:155] WARNING last insert id 576
+2017-09-06 11:38:31,763 mysqlutils.py[line:155] WARNING last insert id 577
+2017-09-06 11:38:31,822 mysqlutils.py[line:155] WARNING last insert id 578
+2017-09-06 11:38:31,880 mysqlutils.py[line:155] WARNING last insert id 579
+2017-09-06 11:38:31,914 mysqlutils.py[line:155] WARNING last insert id 580
+2017-09-06 11:38:31,983 mysqlutils.py[line:155] WARNING last insert id 581
+2017-09-06 11:38:32,036 mysqlutils.py[line:155] WARNING last insert id 582
+2017-09-06 11:38:32,095 mysqlutils.py[line:155] WARNING last insert id 583
+2017-09-06 11:38:32,154 mysqlutils.py[line:155] WARNING last insert id 584
+2017-09-06 11:38:32,190 mysqlutils.py[line:155] WARNING last insert id 585
+2017-09-06 11:38:32,236 mysqlutils.py[line:155] WARNING last insert id 586
+2017-09-06 11:38:32,295 mysqlutils.py[line:155] WARNING last insert id 587
+2017-09-06 11:38:32,342 mysqlutils.py[line:155] WARNING last insert id 588
+2017-09-06 11:38:32,441 mysqlutils.py[line:155] WARNING last insert id 589
+2017-09-06 11:38:32,486 mysqlutils.py[line:155] WARNING last insert id 590
+2017-09-06 11:38:32,526 mysqlutils.py[line:155] WARNING last insert id 591
+2017-09-06 11:38:32,592 mysqlutils.py[line:155] WARNING last insert id 592
+2017-09-06 11:38:32,642 mysqlutils.py[line:155] WARNING last insert id 593
+2017-09-06 11:38:32,694 mysqlutils.py[line:155] WARNING last insert id 594
+2017-09-06 11:38:32,779 mysqlutils.py[line:155] WARNING last insert id 595
+2017-09-06 11:38:32,836 mysqlutils.py[line:155] WARNING last insert id 596
+2017-09-06 11:38:32,890 mysqlutils.py[line:155] WARNING last insert id 597
+2017-09-06 11:38:32,960 mysqlutils.py[line:155] WARNING last insert id 598
+2017-09-06 11:38:33,012 mysqlutils.py[line:155] WARNING last insert id 599
+2017-09-06 11:38:33,051 mysqlutils.py[line:155] WARNING last insert id 600
+2017-09-06 11:38:33,101 mysqlutils.py[line:155] WARNING last insert id 601
+2017-09-06 11:38:33,153 mysqlutils.py[line:155] WARNING last insert id 602
+2017-09-06 11:38:33,210 mysqlutils.py[line:155] WARNING last insert id 603
+2017-09-06 11:38:33,262 mysqlutils.py[line:155] WARNING last insert id 604
+2017-09-06 11:38:33,335 mysqlutils.py[line:155] WARNING last insert id 605
+2017-09-06 11:38:33,385 mysqlutils.py[line:155] WARNING last insert id 606
+2017-09-06 11:38:33,434 mysqlutils.py[line:155] WARNING last insert id 607
+2017-09-06 11:38:33,474 mysqlutils.py[line:155] WARNING last insert id 608
+2017-09-06 11:38:33,526 mysqlutils.py[line:155] WARNING last insert id 609
+2017-09-06 11:38:33,569 mysqlutils.py[line:155] WARNING last insert id 610
+2017-09-06 11:38:33,642 mysqlutils.py[line:155] WARNING last insert id 611
+2017-09-06 11:38:33,694 mysqlutils.py[line:155] WARNING last insert id 612
+2017-09-06 11:38:33,809 mysqlutils.py[line:155] WARNING last insert id 613
+2017-09-06 11:38:33,855 mysqlutils.py[line:155] WARNING last insert id 614
+2017-09-06 11:38:33,901 mysqlutils.py[line:155] WARNING last insert id 615
+2017-09-06 11:38:33,947 mysqlutils.py[line:155] WARNING last insert id 616
+2017-09-06 11:38:34,009 mysqlutils.py[line:155] WARNING last insert id 617
+2017-09-06 11:38:34,048 mysqlutils.py[line:155] WARNING last insert id 618
+2017-09-06 11:38:34,091 mysqlutils.py[line:155] WARNING last insert id 619
+2017-09-06 11:38:34,138 mysqlutils.py[line:155] WARNING last insert id 620
+2017-09-06 11:38:34,183 mysqlutils.py[line:155] WARNING last insert id 621
+2017-09-06 11:38:34,223 mysqlutils.py[line:155] WARNING last insert id 622
+2017-09-06 11:38:34,279 mysqlutils.py[line:155] WARNING last insert id 623
+2017-09-06 11:38:34,336 mysqlutils.py[line:155] WARNING last insert id 624
+2017-09-06 11:38:34,372 mysqlutils.py[line:155] WARNING last insert id 625
+2017-09-06 11:38:34,426 mysqlutils.py[line:155] WARNING last insert id 626
+2017-09-06 11:38:34,486 mysqlutils.py[line:155] WARNING last insert id 627
+2017-09-06 11:38:34,559 mysqlutils.py[line:155] WARNING last insert id 628
+2017-09-06 11:38:34,607 mysqlutils.py[line:155] WARNING last insert id 629
+2017-09-06 11:38:34,667 mysqlutils.py[line:155] WARNING last insert id 630
+2017-09-06 11:38:34,710 mysqlutils.py[line:155] WARNING last insert id 631
+2017-09-06 11:38:34,755 mysqlutils.py[line:155] WARNING last insert id 632
+2017-09-06 11:38:34,795 mysqlutils.py[line:155] WARNING last insert id 633
+2017-09-06 11:38:34,838 mysqlutils.py[line:155] WARNING last insert id 634
+2017-09-06 11:38:34,878 mysqlutils.py[line:155] WARNING last insert id 635
+2017-09-06 11:38:34,986 mysqlutils.py[line:155] WARNING last insert id 636
+2017-09-06 11:38:35,025 mysqlutils.py[line:155] WARNING last insert id 637
+2017-09-06 11:38:35,063 mysqlutils.py[line:155] WARNING last insert id 638
+2017-09-06 11:38:35,117 mysqlutils.py[line:155] WARNING last insert id 639
+2017-09-06 11:38:35,158 mysqlutils.py[line:155] WARNING last insert id 640
+2017-09-06 11:38:35,242 mysqlutils.py[line:155] WARNING last insert id 641
+2017-09-06 11:38:35,289 mysqlutils.py[line:155] WARNING last insert id 642
+2017-09-06 11:38:35,344 mysqlutils.py[line:155] WARNING last insert id 643
+2017-09-06 11:38:35,413 mysqlutils.py[line:155] WARNING last insert id 644
+2017-09-06 11:38:35,460 mysqlutils.py[line:155] WARNING last insert id 645
+2017-09-06 11:38:35,536 mysqlutils.py[line:155] WARNING last insert id 646
+2017-09-06 11:38:35,592 mysqlutils.py[line:155] WARNING last insert id 647
+2017-09-06 11:38:35,645 mysqlutils.py[line:155] WARNING last insert id 648
+2017-09-06 11:38:35,727 mysqlutils.py[line:155] WARNING last insert id 649
+2017-09-06 11:38:35,753 basestockyoy.py[line:121] INFO finish com code 8
+2017-09-06 11:38:35,855 basestockyoy.py[line:92] INFO perform com code of yoy 9
+2017-09-06 11:38:35,984 mysqlutils.py[line:155] WARNING last insert id 650
+2017-09-06 11:38:36,081 mysqlutils.py[line:155] WARNING last insert id 651
+2017-09-06 11:38:36,137 mysqlutils.py[line:155] WARNING last insert id 652
+2017-09-06 11:38:36,177 mysqlutils.py[line:155] WARNING last insert id 653
+2017-09-06 11:38:36,220 mysqlutils.py[line:155] WARNING last insert id 654
+2017-09-06 11:38:36,302 mysqlutils.py[line:155] WARNING last insert id 655
+2017-09-06 11:38:36,381 mysqlutils.py[line:155] WARNING last insert id 656
+2017-09-06 11:38:36,480 mysqlutils.py[line:155] WARNING last insert id 657
+2017-09-06 11:38:36,529 mysqlutils.py[line:155] WARNING last insert id 658
+2017-09-06 11:38:36,566 mysqlutils.py[line:155] WARNING last insert id 659
+2017-09-06 11:38:36,614 mysqlutils.py[line:155] WARNING last insert id 660
+2017-09-06 11:38:36,671 mysqlutils.py[line:155] WARNING last insert id 661
+2017-09-06 11:38:36,720 mysqlutils.py[line:155] WARNING last insert id 662
+2017-09-06 11:38:36,782 mysqlutils.py[line:155] WARNING last insert id 663
+2017-09-06 11:38:36,822 mysqlutils.py[line:155] WARNING last insert id 664
+2017-09-06 11:38:36,858 mysqlutils.py[line:155] WARNING last insert id 665
+2017-09-06 11:38:36,898 mysqlutils.py[line:155] WARNING last insert id 666
+2017-09-06 11:38:36,943 mysqlutils.py[line:155] WARNING last insert id 667
+2017-09-06 11:38:36,984 mysqlutils.py[line:155] WARNING last insert id 668
+2017-09-06 11:38:37,038 mysqlutils.py[line:155] WARNING last insert id 669
+2017-09-06 11:38:37,076 mysqlutils.py[line:155] WARNING last insert id 670
+2017-09-06 11:38:37,131 mysqlutils.py[line:155] WARNING last insert id 671
+2017-09-06 11:38:37,186 mysqlutils.py[line:155] WARNING last insert id 672
+2017-09-06 11:38:37,226 mysqlutils.py[line:155] WARNING last insert id 673
+2017-09-06 11:38:37,289 mysqlutils.py[line:155] WARNING last insert id 674
+2017-09-06 11:38:37,335 mysqlutils.py[line:155] WARNING last insert id 675
+2017-09-06 11:38:37,388 mysqlutils.py[line:155] WARNING last insert id 676
+2017-09-06 11:38:37,437 mysqlutils.py[line:155] WARNING last insert id 677
+2017-09-06 11:38:37,484 mysqlutils.py[line:155] WARNING last insert id 678
+2017-09-06 11:38:37,528 mysqlutils.py[line:155] WARNING last insert id 679
+2017-09-06 11:38:37,581 mysqlutils.py[line:155] WARNING last insert id 680
+2017-09-06 11:38:37,617 mysqlutils.py[line:155] WARNING last insert id 681
+2017-09-06 11:38:37,660 mysqlutils.py[line:155] WARNING last insert id 682
+2017-09-06 11:38:37,707 mysqlutils.py[line:155] WARNING last insert id 683
+2017-09-06 11:38:37,752 mysqlutils.py[line:155] WARNING last insert id 684
+2017-09-06 11:38:37,793 mysqlutils.py[line:155] WARNING last insert id 685
+2017-09-06 11:38:37,842 mysqlutils.py[line:155] WARNING last insert id 686
+2017-09-06 11:38:37,913 mysqlutils.py[line:155] WARNING last insert id 687
+2017-09-06 11:38:37,973 mysqlutils.py[line:155] WARNING last insert id 688
+2017-09-06 11:38:38,084 mysqlutils.py[line:155] WARNING last insert id 689
+2017-09-06 11:38:38,131 mysqlutils.py[line:155] WARNING last insert id 690
+2017-09-06 11:38:38,171 mysqlutils.py[line:155] WARNING last insert id 691
+2017-09-06 11:38:38,214 mysqlutils.py[line:155] WARNING last insert id 692
+2017-09-06 11:38:38,269 mysqlutils.py[line:155] WARNING last insert id 693
+2017-09-06 11:38:38,322 mysqlutils.py[line:155] WARNING last insert id 694
+2017-09-06 11:38:38,368 mysqlutils.py[line:155] WARNING last insert id 695
+2017-09-06 11:38:38,421 mysqlutils.py[line:155] WARNING last insert id 696
+2017-09-06 11:38:38,466 mysqlutils.py[line:155] WARNING last insert id 697
+2017-09-06 11:38:38,503 mysqlutils.py[line:155] WARNING last insert id 698
+2017-09-06 11:38:38,546 mysqlutils.py[line:155] WARNING last insert id 699
+2017-09-06 11:38:38,706 mysqlutils.py[line:155] WARNING last insert id 700
+2017-09-06 11:38:38,759 mysqlutils.py[line:155] WARNING last insert id 701
+2017-09-06 11:38:38,806 mysqlutils.py[line:155] WARNING last insert id 702
+2017-09-06 11:38:38,849 mysqlutils.py[line:155] WARNING last insert id 703
+2017-09-06 11:38:38,890 mysqlutils.py[line:155] WARNING last insert id 704
+2017-09-06 11:38:38,950 mysqlutils.py[line:155] WARNING last insert id 705
+2017-09-06 11:38:38,992 mysqlutils.py[line:155] WARNING last insert id 706
+2017-09-06 11:38:39,032 mysqlutils.py[line:155] WARNING last insert id 707
+2017-09-06 11:38:39,082 mysqlutils.py[line:155] WARNING last insert id 708
+2017-09-06 11:38:39,117 mysqlutils.py[line:155] WARNING last insert id 709
+2017-09-06 11:38:39,150 mysqlutils.py[line:155] WARNING last insert id 710
+2017-09-06 11:38:39,190 mysqlutils.py[line:155] WARNING last insert id 711
+2017-09-06 11:38:39,227 mysqlutils.py[line:155] WARNING last insert id 712
+2017-09-06 11:38:39,273 mysqlutils.py[line:155] WARNING last insert id 713
+2017-09-06 11:38:39,319 mysqlutils.py[line:155] WARNING last insert id 714
+2017-09-06 11:38:39,414 mysqlutils.py[line:155] WARNING last insert id 715
+2017-09-06 11:38:39,453 mysqlutils.py[line:155] WARNING last insert id 716
+2017-09-06 11:38:39,499 mysqlutils.py[line:155] WARNING last insert id 717
+2017-09-06 11:38:39,532 mysqlutils.py[line:155] WARNING last insert id 718
+2017-09-06 11:38:39,568 mysqlutils.py[line:155] WARNING last insert id 719
+2017-09-06 11:38:39,608 mysqlutils.py[line:155] WARNING last insert id 720
+2017-09-06 11:38:39,651 mysqlutils.py[line:155] WARNING last insert id 721
+2017-09-06 11:38:39,713 mysqlutils.py[line:155] WARNING last insert id 722
+2017-09-06 11:38:39,759 mysqlutils.py[line:155] WARNING last insert id 723
+2017-09-06 11:38:39,811 mysqlutils.py[line:155] WARNING last insert id 724
+2017-09-06 11:38:39,858 mysqlutils.py[line:155] WARNING last insert id 725
+2017-09-06 11:38:39,891 mysqlutils.py[line:155] WARNING last insert id 726
+2017-09-06 11:38:39,926 mysqlutils.py[line:155] WARNING last insert id 727
+2017-09-06 11:38:40,003 mysqlutils.py[line:155] WARNING last insert id 728
+2017-09-06 11:38:40,112 mysqlutils.py[line:155] WARNING last insert id 729
+2017-09-06 11:38:40,140 basestockyoy.py[line:121] INFO finish com code 9
+2017-09-06 11:38:40,240 basestockyoy.py[line:92] INFO perform com code of yoy 10
+2017-09-06 11:38:40,385 mysqlutils.py[line:155] WARNING last insert id 730
+2017-09-06 11:38:40,427 mysqlutils.py[line:155] WARNING last insert id 731
+2017-09-06 11:38:40,467 mysqlutils.py[line:155] WARNING last insert id 732
+2017-09-06 11:38:40,509 mysqlutils.py[line:155] WARNING last insert id 733
+2017-09-06 11:38:40,552 mysqlutils.py[line:155] WARNING last insert id 734
+2017-09-06 11:38:40,604 mysqlutils.py[line:155] WARNING last insert id 735
+2017-09-06 11:38:40,644 mysqlutils.py[line:155] WARNING last insert id 736
+2017-09-06 11:38:40,697 mysqlutils.py[line:155] WARNING last insert id 737
+2017-09-06 11:38:40,736 mysqlutils.py[line:155] WARNING last insert id 738
+2017-09-06 11:38:40,839 mysqlutils.py[line:155] WARNING last insert id 739
+2017-09-06 11:38:40,884 mysqlutils.py[line:155] WARNING last insert id 740
+2017-09-06 11:38:40,924 mysqlutils.py[line:155] WARNING last insert id 741
+2017-09-06 11:38:41,016 mysqlutils.py[line:155] WARNING last insert id 742
+2017-09-06 11:38:41,068 mysqlutils.py[line:155] WARNING last insert id 743
+2017-09-06 11:38:41,107 mysqlutils.py[line:155] WARNING last insert id 744
+2017-09-06 11:38:41,148 mysqlutils.py[line:155] WARNING last insert id 745
+2017-09-06 11:38:41,184 mysqlutils.py[line:155] WARNING last insert id 746
+2017-09-06 11:38:41,219 mysqlutils.py[line:155] WARNING last insert id 747
+2017-09-06 11:38:41,260 mysqlutils.py[line:155] WARNING last insert id 748
+2017-09-06 11:38:41,299 mysqlutils.py[line:155] WARNING last insert id 749
+2017-09-06 11:38:41,334 mysqlutils.py[line:155] WARNING last insert id 750
+2017-09-06 11:38:41,368 mysqlutils.py[line:155] WARNING last insert id 751
+2017-09-06 11:38:41,400 mysqlutils.py[line:155] WARNING last insert id 752
+2017-09-06 11:38:41,434 mysqlutils.py[line:155] WARNING last insert id 753
+2017-09-06 11:38:41,486 mysqlutils.py[line:155] WARNING last insert id 754
+2017-09-06 11:38:41,526 mysqlutils.py[line:155] WARNING last insert id 755
+2017-09-06 11:38:41,566 mysqlutils.py[line:155] WARNING last insert id 756
+2017-09-06 11:38:41,621 mysqlutils.py[line:155] WARNING last insert id 757
+2017-09-06 11:38:41,673 mysqlutils.py[line:155] WARNING last insert id 758
+2017-09-06 11:38:41,723 mysqlutils.py[line:155] WARNING last insert id 759
+2017-09-06 11:38:41,763 mysqlutils.py[line:155] WARNING last insert id 760
+2017-09-06 11:38:41,815 mysqlutils.py[line:155] WARNING last insert id 761
+2017-09-06 11:38:41,855 mysqlutils.py[line:155] WARNING last insert id 762
+2017-09-06 11:38:41,898 mysqlutils.py[line:155] WARNING last insert id 763
+2017-09-06 11:38:41,938 mysqlutils.py[line:155] WARNING last insert id 764
+2017-09-06 11:38:41,993 mysqlutils.py[line:155] WARNING last insert id 765
+2017-09-06 11:38:42,138 mysqlutils.py[line:155] WARNING last insert id 766
+2017-09-06 11:38:42,203 mysqlutils.py[line:155] WARNING last insert id 767
+2017-09-06 11:38:42,253 mysqlutils.py[line:155] WARNING last insert id 768
+2017-09-06 11:38:42,293 mysqlutils.py[line:155] WARNING last insert id 769
+2017-09-06 11:38:42,364 mysqlutils.py[line:155] WARNING last insert id 770
+2017-09-06 11:38:42,414 mysqlutils.py[line:155] WARNING last insert id 771
+2017-09-06 11:38:42,503 mysqlutils.py[line:155] WARNING last insert id 772
+2017-09-06 11:38:42,545 mysqlutils.py[line:155] WARNING last insert id 773
+2017-09-06 11:38:42,638 mysqlutils.py[line:155] WARNING last insert id 774
+2017-09-06 11:38:42,686 mysqlutils.py[line:155] WARNING last insert id 775
+2017-09-06 11:38:42,729 mysqlutils.py[line:155] WARNING last insert id 776
+2017-09-06 11:38:42,779 mysqlutils.py[line:155] WARNING last insert id 777
+2017-09-06 11:38:42,822 mysqlutils.py[line:155] WARNING last insert id 778
+2017-09-06 11:38:42,865 mysqlutils.py[line:155] WARNING last insert id 779
+2017-09-06 11:38:42,907 mysqlutils.py[line:155] WARNING last insert id 780
+2017-09-06 11:38:42,980 mysqlutils.py[line:155] WARNING last insert id 781
+2017-09-06 11:38:43,019 mysqlutils.py[line:155] WARNING last insert id 782
+2017-09-06 11:38:43,088 mysqlutils.py[line:155] WARNING last insert id 783
+2017-09-06 11:38:43,140 mysqlutils.py[line:155] WARNING last insert id 784
+2017-09-06 11:38:43,190 mysqlutils.py[line:155] WARNING last insert id 785
+2017-09-06 11:38:43,247 mysqlutils.py[line:155] WARNING last insert id 786
+2017-09-06 11:38:43,283 mysqlutils.py[line:155] WARNING last insert id 787
+2017-09-06 11:38:43,319 mysqlutils.py[line:155] WARNING last insert id 788
+2017-09-06 11:38:43,394 mysqlutils.py[line:155] WARNING last insert id 789
+2017-09-06 11:38:43,447 mysqlutils.py[line:155] WARNING last insert id 790
+2017-09-06 11:38:43,496 mysqlutils.py[line:155] WARNING last insert id 791
+2017-09-06 11:38:43,549 mysqlutils.py[line:155] WARNING last insert id 792
+2017-09-06 11:38:43,584 mysqlutils.py[line:155] WARNING last insert id 793
+2017-09-06 11:38:43,619 mysqlutils.py[line:155] WARNING last insert id 794
+2017-09-06 11:38:43,667 mysqlutils.py[line:155] WARNING last insert id 795
+2017-09-06 11:38:43,703 mysqlutils.py[line:155] WARNING last insert id 796
+2017-09-06 11:38:43,753 mysqlutils.py[line:155] WARNING last insert id 797
+2017-09-06 11:38:43,795 mysqlutils.py[line:155] WARNING last insert id 798
+2017-09-06 11:38:43,846 mysqlutils.py[line:155] WARNING last insert id 799
+2017-09-06 11:38:43,923 mysqlutils.py[line:155] WARNING last insert id 800
+2017-09-06 11:38:43,977 mysqlutils.py[line:155] WARNING last insert id 801
+2017-09-06 11:38:44,078 mysqlutils.py[line:155] WARNING last insert id 802
+2017-09-06 11:38:44,124 mysqlutils.py[line:155] WARNING last insert id 803
+2017-09-06 11:38:44,168 mysqlutils.py[line:155] WARNING last insert id 804
+2017-09-06 11:38:44,216 mysqlutils.py[line:155] WARNING last insert id 805
+2017-09-06 11:38:44,259 mysqlutils.py[line:155] WARNING last insert id 806
+2017-09-06 11:38:44,299 mysqlutils.py[line:155] WARNING last insert id 807
+2017-09-06 11:38:44,355 mysqlutils.py[line:155] WARNING last insert id 808
+2017-09-06 11:38:44,405 mysqlutils.py[line:155] WARNING last insert id 809
+2017-09-06 11:38:44,473 mysqlutils.py[line:155] WARNING last insert id 810
+2017-09-06 11:38:44,509 mysqlutils.py[line:155] WARNING last insert id 811
+2017-09-06 11:38:44,584 mysqlutils.py[line:155] WARNING last insert id 812
+2017-09-06 11:38:44,607 basestockyoy.py[line:121] INFO finish com code 10
+2017-09-06 11:38:44,707 basestockyoy.py[line:92] INFO perform com code of yoy 11
+2017-09-06 11:38:44,838 mysqlutils.py[line:155] WARNING last insert id 813
+2017-09-06 11:38:44,878 mysqlutils.py[line:155] WARNING last insert id 814
+2017-09-06 11:38:44,920 mysqlutils.py[line:155] WARNING last insert id 815
+2017-09-06 11:38:44,960 mysqlutils.py[line:155] WARNING last insert id 816
+2017-09-06 11:38:45,033 mysqlutils.py[line:155] WARNING last insert id 817
+2017-09-06 11:38:45,164 mysqlutils.py[line:155] WARNING last insert id 818
+2017-09-06 11:38:45,203 mysqlutils.py[line:155] WARNING last insert id 819
+2017-09-06 11:38:45,256 mysqlutils.py[line:155] WARNING last insert id 820
+2017-09-06 11:38:45,296 mysqlutils.py[line:155] WARNING last insert id 821
+2017-09-06 11:38:45,339 mysqlutils.py[line:155] WARNING last insert id 822
+2017-09-06 11:38:45,391 mysqlutils.py[line:155] WARNING last insert id 823
+2017-09-06 11:38:45,431 mysqlutils.py[line:155] WARNING last insert id 824
+2017-09-06 11:38:45,470 mysqlutils.py[line:155] WARNING last insert id 825
+2017-09-06 11:38:45,513 mysqlutils.py[line:155] WARNING last insert id 826
+2017-09-06 11:38:45,553 mysqlutils.py[line:155] WARNING last insert id 827
+2017-09-06 11:38:45,594 mysqlutils.py[line:155] WARNING last insert id 828
+2017-09-06 11:38:45,650 mysqlutils.py[line:155] WARNING last insert id 829
+2017-09-06 11:38:45,720 mysqlutils.py[line:155] WARNING last insert id 830
+2017-09-06 11:38:45,773 mysqlutils.py[line:155] WARNING last insert id 831
+2017-09-06 11:38:45,882 mysqlutils.py[line:155] WARNING last insert id 832
+2017-09-06 11:38:45,931 mysqlutils.py[line:155] WARNING last insert id 833
+2017-09-06 11:38:46,003 mysqlutils.py[line:155] WARNING last insert id 834
+2017-09-06 11:38:46,151 mysqlutils.py[line:155] WARNING last insert id 835
+2017-09-06 11:38:46,207 mysqlutils.py[line:155] WARNING last insert id 836
+2017-09-06 11:38:46,253 mysqlutils.py[line:155] WARNING last insert id 837
+2017-09-06 11:38:46,305 mysqlutils.py[line:155] WARNING last insert id 838
+2017-09-06 11:38:46,349 mysqlutils.py[line:155] WARNING last insert id 839
+2017-09-06 11:38:46,390 mysqlutils.py[line:155] WARNING last insert id 840
+2017-09-06 11:38:46,433 mysqlutils.py[line:155] WARNING last insert id 841
+2017-09-06 11:38:46,473 mysqlutils.py[line:155] WARNING last insert id 842
+2017-09-06 11:38:46,582 mysqlutils.py[line:155] WARNING last insert id 843
+2017-09-06 11:38:46,661 mysqlutils.py[line:155] WARNING last insert id 844
+2017-09-06 11:38:46,733 mysqlutils.py[line:155] WARNING last insert id 845
+2017-09-06 11:38:46,822 mysqlutils.py[line:155] WARNING last insert id 846
+2017-09-06 11:38:46,865 mysqlutils.py[line:155] WARNING last insert id 847
+2017-09-06 11:38:46,976 mysqlutils.py[line:155] WARNING last insert id 848
+2017-09-06 11:38:47,020 mysqlutils.py[line:155] WARNING last insert id 849
+2017-09-06 11:38:47,062 mysqlutils.py[line:155] WARNING last insert id 850
+2017-09-06 11:38:47,125 mysqlutils.py[line:155] WARNING last insert id 851
+2017-09-06 11:38:47,164 mysqlutils.py[line:155] WARNING last insert id 852
+2017-09-06 11:38:47,243 mysqlutils.py[line:155] WARNING last insert id 853
+2017-09-06 11:38:47,279 mysqlutils.py[line:155] WARNING last insert id 854
+2017-09-06 11:38:47,321 mysqlutils.py[line:155] WARNING last insert id 855
+2017-09-06 11:38:47,364 mysqlutils.py[line:155] WARNING last insert id 856
+2017-09-06 11:38:47,413 mysqlutils.py[line:155] WARNING last insert id 857
+2017-09-06 11:38:47,467 mysqlutils.py[line:155] WARNING last insert id 858
+2017-09-06 11:38:47,532 mysqlutils.py[line:155] WARNING last insert id 859
+2017-09-06 11:38:47,581 mysqlutils.py[line:155] WARNING last insert id 860
+2017-09-06 11:38:47,664 mysqlutils.py[line:155] WARNING last insert id 861
+2017-09-06 11:38:47,780 mysqlutils.py[line:155] WARNING last insert id 862
+2017-09-06 11:38:47,823 mysqlutils.py[line:155] WARNING last insert id 863
+2017-09-06 11:38:47,862 mysqlutils.py[line:155] WARNING last insert id 864
+2017-09-06 11:38:47,977 mysqlutils.py[line:155] WARNING last insert id 865
+2017-09-06 11:38:48,055 mysqlutils.py[line:155] WARNING last insert id 866
+2017-09-06 11:38:48,114 mysqlutils.py[line:155] WARNING last insert id 867
+2017-09-06 11:38:48,160 mysqlutils.py[line:155] WARNING last insert id 868
+2017-09-06 11:38:48,201 mysqlutils.py[line:155] WARNING last insert id 869
+2017-09-06 11:38:48,237 mysqlutils.py[line:155] WARNING last insert id 870
+2017-09-06 11:38:48,289 mysqlutils.py[line:155] WARNING last insert id 871
+2017-09-06 11:38:48,377 mysqlutils.py[line:155] WARNING last insert id 872
+2017-09-06 11:38:48,469 mysqlutils.py[line:155] WARNING last insert id 873
+2017-09-06 11:38:48,539 mysqlutils.py[line:155] WARNING last insert id 874
+2017-09-06 11:38:48,589 mysqlutils.py[line:155] WARNING last insert id 875
+2017-09-06 11:38:48,638 mysqlutils.py[line:155] WARNING last insert id 876
+2017-09-06 11:38:48,678 mysqlutils.py[line:155] WARNING last insert id 877
+2017-09-06 11:38:48,713 mysqlutils.py[line:155] WARNING last insert id 878
+2017-09-06 11:38:48,763 mysqlutils.py[line:155] WARNING last insert id 879
+2017-09-06 11:38:48,809 mysqlutils.py[line:155] WARNING last insert id 880
+2017-09-06 11:38:48,858 mysqlutils.py[line:155] WARNING last insert id 881
+2017-09-06 11:38:48,897 mysqlutils.py[line:155] WARNING last insert id 882
+2017-09-06 11:38:48,950 mysqlutils.py[line:155] WARNING last insert id 883
+2017-09-06 11:38:48,989 mysqlutils.py[line:155] WARNING last insert id 884
+2017-09-06 11:38:49,030 mysqlutils.py[line:155] WARNING last insert id 885
+2017-09-06 11:38:49,086 mysqlutils.py[line:155] WARNING last insert id 886
+2017-09-06 11:38:49,130 mysqlutils.py[line:155] WARNING last insert id 887
+2017-09-06 11:38:49,171 mysqlutils.py[line:155] WARNING last insert id 888
+2017-09-06 11:38:49,221 mysqlutils.py[line:155] WARNING last insert id 889
+2017-09-06 11:38:49,267 mysqlutils.py[line:155] WARNING last insert id 890
+2017-09-06 11:38:49,315 mysqlutils.py[line:155] WARNING last insert id 891
+2017-09-06 11:38:49,342 basestockyoy.py[line:121] INFO finish com code 11
+2017-09-06 11:38:49,443 basestockyoy.py[line:92] INFO perform com code of yoy 12
+2017-09-06 11:38:49,548 mysqlutils.py[line:155] WARNING last insert id 892
+2017-09-06 11:38:49,588 mysqlutils.py[line:155] WARNING last insert id 893
+2017-09-06 11:38:49,650 mysqlutils.py[line:155] WARNING last insert id 894
+2017-09-06 11:38:49,709 mysqlutils.py[line:155] WARNING last insert id 895
+2017-09-06 11:38:49,756 mysqlutils.py[line:155] WARNING last insert id 896
+2017-09-06 11:38:49,868 mysqlutils.py[line:155] WARNING last insert id 897
+2017-09-06 11:38:49,911 mysqlutils.py[line:155] WARNING last insert id 898
+2017-09-06 11:38:49,947 mysqlutils.py[line:155] WARNING last insert id 899
+2017-09-06 11:38:50,026 mysqlutils.py[line:155] WARNING last insert id 900
+2017-09-06 11:38:50,072 mysqlutils.py[line:155] WARNING last insert id 901
+2017-09-06 11:38:50,134 mysqlutils.py[line:155] WARNING last insert id 902
+2017-09-06 11:38:50,171 mysqlutils.py[line:155] WARNING last insert id 903
+2017-09-06 11:38:50,213 mysqlutils.py[line:155] WARNING last insert id 904
+2017-09-06 11:38:50,293 mysqlutils.py[line:155] WARNING last insert id 905
+2017-09-06 11:38:50,334 mysqlutils.py[line:155] WARNING last insert id 906
+2017-09-06 11:38:50,398 mysqlutils.py[line:155] WARNING last insert id 907
+2017-09-06 11:38:50,438 mysqlutils.py[line:155] WARNING last insert id 908
+2017-09-06 11:38:50,480 mysqlutils.py[line:155] WARNING last insert id 909
+2017-09-06 11:38:50,572 mysqlutils.py[line:155] WARNING last insert id 910
+2017-09-06 11:38:50,619 mysqlutils.py[line:155] WARNING last insert id 911
+2017-09-06 11:38:50,693 mysqlutils.py[line:155] WARNING last insert id 912
+2017-09-06 11:38:50,749 mysqlutils.py[line:155] WARNING last insert id 913
+2017-09-06 11:38:50,836 mysqlutils.py[line:155] WARNING last insert id 914
+2017-09-06 11:38:50,880 mysqlutils.py[line:155] WARNING last insert id 915
+2017-09-06 11:38:50,993 mysqlutils.py[line:155] WARNING last insert id 916
+2017-09-06 11:38:51,042 mysqlutils.py[line:155] WARNING last insert id 917
+2017-09-06 11:38:51,111 mysqlutils.py[line:155] WARNING last insert id 918
+2017-09-06 11:38:51,148 mysqlutils.py[line:155] WARNING last insert id 919
+2017-09-06 11:38:51,190 mysqlutils.py[line:155] WARNING last insert id 920
+2017-09-06 11:38:51,256 mysqlutils.py[line:155] WARNING last insert id 921
+2017-09-06 11:38:51,298 mysqlutils.py[line:155] WARNING last insert id 922
+2017-09-06 11:38:51,338 mysqlutils.py[line:155] WARNING last insert id 923
+2017-09-06 11:38:51,388 mysqlutils.py[line:155] WARNING last insert id 924
+2017-09-06 11:38:51,450 mysqlutils.py[line:155] WARNING last insert id 925
+2017-09-06 11:38:51,503 mysqlutils.py[line:155] WARNING last insert id 926
+2017-09-06 11:38:51,539 mysqlutils.py[line:155] WARNING last insert id 927
+2017-09-06 11:38:51,581 mysqlutils.py[line:155] WARNING last insert id 928
+2017-09-06 11:38:51,621 mysqlutils.py[line:155] WARNING last insert id 929
+2017-09-06 11:38:51,674 mysqlutils.py[line:155] WARNING last insert id 930
+2017-09-06 11:38:51,713 mysqlutils.py[line:155] WARNING last insert id 931
+2017-09-06 11:38:51,756 mysqlutils.py[line:155] WARNING last insert id 932
+2017-09-06 11:38:51,813 mysqlutils.py[line:155] WARNING last insert id 933
+2017-09-06 11:38:51,864 mysqlutils.py[line:155] WARNING last insert id 934
+2017-09-06 11:38:51,920 mysqlutils.py[line:155] WARNING last insert id 935
+2017-09-06 11:38:51,956 mysqlutils.py[line:155] WARNING last insert id 936
+2017-09-06 11:38:52,104 mysqlutils.py[line:155] WARNING last insert id 937
+2017-09-06 11:38:52,158 mysqlutils.py[line:155] WARNING last insert id 938
+2017-09-06 11:38:52,203 mysqlutils.py[line:155] WARNING last insert id 939
+2017-09-06 11:38:52,250 mysqlutils.py[line:155] WARNING last insert id 940
+2017-09-06 11:38:52,292 mysqlutils.py[line:155] WARNING last insert id 941
+2017-09-06 11:38:52,335 mysqlutils.py[line:155] WARNING last insert id 942
+2017-09-06 11:38:52,378 mysqlutils.py[line:155] WARNING last insert id 943
+2017-09-06 11:38:52,420 mysqlutils.py[line:155] WARNING last insert id 944
+2017-09-06 11:38:52,457 mysqlutils.py[line:155] WARNING last insert id 945
+2017-09-06 11:38:52,506 mysqlutils.py[line:155] WARNING last insert id 946
+2017-09-06 11:38:52,565 mysqlutils.py[line:155] WARNING last insert id 947
+2017-09-06 11:38:52,605 mysqlutils.py[line:155] WARNING last insert id 948
+2017-09-06 11:38:52,694 mysqlutils.py[line:155] WARNING last insert id 949
+2017-09-06 11:38:52,750 mysqlutils.py[line:155] WARNING last insert id 950
+2017-09-06 11:38:52,796 mysqlutils.py[line:155] WARNING last insert id 951
+2017-09-06 11:38:52,864 mysqlutils.py[line:155] WARNING last insert id 952
+2017-09-06 11:38:52,914 mysqlutils.py[line:155] WARNING last insert id 953
+2017-09-06 11:38:52,957 mysqlutils.py[line:155] WARNING last insert id 954
+2017-09-06 11:38:53,007 mysqlutils.py[line:155] WARNING last insert id 955
+2017-09-06 11:38:53,065 mysqlutils.py[line:155] WARNING last insert id 956
+2017-09-06 11:38:53,134 mysqlutils.py[line:155] WARNING last insert id 957
+2017-09-06 11:38:53,181 mysqlutils.py[line:155] WARNING last insert id 958
+2017-09-06 11:38:53,229 mysqlutils.py[line:155] WARNING last insert id 959
+2017-09-06 11:38:53,282 mysqlutils.py[line:155] WARNING last insert id 960
+2017-09-06 11:38:53,335 mysqlutils.py[line:155] WARNING last insert id 961
+2017-09-06 11:38:53,371 mysqlutils.py[line:155] WARNING last insert id 962
+2017-09-06 11:38:53,411 mysqlutils.py[line:155] WARNING last insert id 963
+2017-09-06 11:38:53,450 mysqlutils.py[line:155] WARNING last insert id 964
+2017-09-06 11:38:53,589 mysqlutils.py[line:155] WARNING last insert id 965
+2017-09-06 11:38:53,630 mysqlutils.py[line:155] WARNING last insert id 966
+2017-09-06 11:38:53,664 mysqlutils.py[line:155] WARNING last insert id 967
+2017-09-06 11:38:53,717 mysqlutils.py[line:155] WARNING last insert id 968
+2017-09-06 11:38:53,765 mysqlutils.py[line:155] WARNING last insert id 969
+2017-09-06 11:38:53,805 mysqlutils.py[line:155] WARNING last insert id 970
+2017-09-06 11:38:53,846 mysqlutils.py[line:155] WARNING last insert id 971
+2017-09-06 11:38:53,917 mysqlutils.py[line:155] WARNING last insert id 972
+2017-09-06 11:38:53,963 basestockyoy.py[line:121] INFO finish com code 12
+2017-09-06 11:38:54,069 basestockyoy.py[line:92] INFO perform com code of yoy 13
+2017-09-06 11:38:54,200 mysqlutils.py[line:155] WARNING last insert id 973
+2017-09-06 11:38:54,243 mysqlutils.py[line:155] WARNING last insert id 974
+2017-09-06 11:38:54,280 mysqlutils.py[line:155] WARNING last insert id 975
+2017-09-06 11:38:54,315 mysqlutils.py[line:155] WARNING last insert id 976
+2017-09-06 11:38:54,355 mysqlutils.py[line:155] WARNING last insert id 977
+2017-09-06 11:38:54,411 mysqlutils.py[line:155] WARNING last insert id 978
+2017-09-06 11:38:54,476 mysqlutils.py[line:155] WARNING last insert id 979
+2017-09-06 11:38:54,525 mysqlutils.py[line:155] WARNING last insert id 980
+2017-09-06 11:38:54,565 mysqlutils.py[line:155] WARNING last insert id 981
+2017-09-06 11:38:54,618 mysqlutils.py[line:155] WARNING last insert id 982
+2017-09-06 11:38:54,655 mysqlutils.py[line:155] WARNING last insert id 983
+2017-09-06 11:38:54,690 mysqlutils.py[line:155] WARNING last insert id 984
+2017-09-06 11:38:54,732 mysqlutils.py[line:155] WARNING last insert id 985
+2017-09-06 11:38:54,773 mysqlutils.py[line:155] WARNING last insert id 986
+2017-09-06 11:38:54,841 mysqlutils.py[line:155] WARNING last insert id 987
+2017-09-06 11:38:54,881 mysqlutils.py[line:155] WARNING last insert id 988
+2017-09-06 11:38:54,924 mysqlutils.py[line:155] WARNING last insert id 989
+2017-09-06 11:38:54,990 mysqlutils.py[line:155] WARNING last insert id 990
+2017-09-06 11:38:55,032 mysqlutils.py[line:155] WARNING last insert id 991
+2017-09-06 11:38:55,118 mysqlutils.py[line:155] WARNING last insert id 992
+2017-09-06 11:38:55,167 mysqlutils.py[line:155] WARNING last insert id 993
+2017-09-06 11:38:55,217 mysqlutils.py[line:155] WARNING last insert id 994
+2017-09-06 11:38:55,259 mysqlutils.py[line:155] WARNING last insert id 995
+2017-09-06 11:38:55,301 mysqlutils.py[line:155] WARNING last insert id 996
+2017-09-06 11:38:55,342 mysqlutils.py[line:155] WARNING last insert id 997
+2017-09-06 11:38:55,384 mysqlutils.py[line:155] WARNING last insert id 998
+2017-09-06 11:38:55,460 mysqlutils.py[line:155] WARNING last insert id 999
+2017-09-06 11:38:55,499 mysqlutils.py[line:155] WARNING last insert id 1000
+2017-09-06 11:38:55,539 mysqlutils.py[line:155] WARNING last insert id 1001
+2017-09-06 11:38:55,625 mysqlutils.py[line:155] WARNING last insert id 1002
+2017-09-06 11:38:55,674 mysqlutils.py[line:155] WARNING last insert id 1003
+2017-09-06 11:38:55,795 mysqlutils.py[line:155] WARNING last insert id 1004
+2017-09-06 11:38:55,842 mysqlutils.py[line:155] WARNING last insert id 1005
+2017-09-06 11:38:55,910 mysqlutils.py[line:155] WARNING last insert id 1006
+2017-09-06 11:38:55,960 mysqlutils.py[line:155] WARNING last insert id 1007
+2017-09-06 11:38:56,115 mysqlutils.py[line:155] WARNING last insert id 1008
+2017-09-06 11:38:56,157 mysqlutils.py[line:155] WARNING last insert id 1009
+2017-09-06 11:38:56,198 mysqlutils.py[line:155] WARNING last insert id 1010
+2017-09-06 11:38:56,240 mysqlutils.py[line:155] WARNING last insert id 1011
+2017-09-06 11:38:56,289 mysqlutils.py[line:155] WARNING last insert id 1012
+2017-09-06 11:38:56,334 mysqlutils.py[line:155] WARNING last insert id 1013
+2017-09-06 11:38:56,384 mysqlutils.py[line:155] WARNING last insert id 1014
+2017-09-06 11:38:56,424 mysqlutils.py[line:155] WARNING last insert id 1015
+2017-09-06 11:38:56,476 mysqlutils.py[line:155] WARNING last insert id 1016
+2017-09-06 11:38:56,516 mysqlutils.py[line:155] WARNING last insert id 1017
+2017-09-06 11:38:56,569 mysqlutils.py[line:155] WARNING last insert id 1018
+2017-09-06 11:38:56,607 mysqlutils.py[line:155] WARNING last insert id 1019
+2017-09-06 11:38:56,661 mysqlutils.py[line:155] WARNING last insert id 1020
+2017-09-06 11:38:56,704 mysqlutils.py[line:155] WARNING last insert id 1021
+2017-09-06 11:38:56,845 mysqlutils.py[line:155] WARNING last insert id 1022
+2017-09-06 11:38:56,921 mysqlutils.py[line:155] WARNING last insert id 1023
+2017-09-06 11:38:57,006 mysqlutils.py[line:155] WARNING last insert id 1024
+2017-09-06 11:38:57,069 mysqlutils.py[line:155] WARNING last insert id 1025
+2017-09-06 11:38:57,118 mysqlutils.py[line:155] WARNING last insert id 1026
+2017-09-06 11:38:57,171 mysqlutils.py[line:155] WARNING last insert id 1027
+2017-09-06 11:38:57,209 mysqlutils.py[line:155] WARNING last insert id 1028
+2017-09-06 11:38:57,303 mysqlutils.py[line:155] WARNING last insert id 1029
+2017-09-06 11:38:57,351 mysqlutils.py[line:155] WARNING last insert id 1030
+2017-09-06 11:38:57,418 mysqlutils.py[line:155] WARNING last insert id 1031
+2017-09-06 11:38:57,466 mysqlutils.py[line:155] WARNING last insert id 1032
+2017-09-06 11:38:57,517 mysqlutils.py[line:155] WARNING last insert id 1033
+2017-09-06 11:38:57,575 mysqlutils.py[line:155] WARNING last insert id 1034
+2017-09-06 11:38:57,625 mysqlutils.py[line:155] WARNING last insert id 1035
+2017-09-06 11:38:57,720 mysqlutils.py[line:155] WARNING last insert id 1036
+2017-09-06 11:38:57,767 mysqlutils.py[line:155] WARNING last insert id 1037
+2017-09-06 11:38:57,845 mysqlutils.py[line:155] WARNING last insert id 1038
+2017-09-06 11:38:57,894 mysqlutils.py[line:155] WARNING last insert id 1039
+2017-09-06 11:38:57,940 mysqlutils.py[line:155] WARNING last insert id 1040
+2017-09-06 11:38:58,042 mysqlutils.py[line:155] WARNING last insert id 1041
+2017-09-06 11:38:58,210 mysqlutils.py[line:155] WARNING last insert id 1042
+2017-09-06 11:38:58,259 mysqlutils.py[line:155] WARNING last insert id 1043
+2017-09-06 11:38:58,309 mysqlutils.py[line:155] WARNING last insert id 1044
+2017-09-06 11:38:58,358 mysqlutils.py[line:155] WARNING last insert id 1045
+2017-09-06 11:38:58,407 mysqlutils.py[line:155] WARNING last insert id 1046
+2017-09-06 11:38:58,459 mysqlutils.py[line:155] WARNING last insert id 1047
+2017-09-06 11:38:58,507 mysqlutils.py[line:155] WARNING last insert id 1048
+2017-09-06 11:38:58,549 mysqlutils.py[line:155] WARNING last insert id 1049
+2017-09-06 11:38:58,598 mysqlutils.py[line:155] WARNING last insert id 1050
+2017-09-06 11:38:58,642 mysqlutils.py[line:155] WARNING last insert id 1051
+2017-09-06 11:38:58,671 basestockyoy.py[line:121] INFO finish com code 13
+2017-09-06 11:38:58,772 basestockyoy.py[line:92] INFO perform com code of yoy 14
+2017-09-06 11:38:58,904 mysqlutils.py[line:155] WARNING last insert id 1052
+2017-09-06 11:38:58,941 mysqlutils.py[line:155] WARNING last insert id 1053
+2017-09-06 11:38:58,992 mysqlutils.py[line:155] WARNING last insert id 1054
+2017-09-06 11:38:59,046 mysqlutils.py[line:155] WARNING last insert id 1055
+2017-09-06 11:38:59,095 mysqlutils.py[line:155] WARNING last insert id 1056
+2017-09-06 11:38:59,145 mysqlutils.py[line:155] WARNING last insert id 1057
+2017-09-06 11:38:59,397 mysqlutils.py[line:155] WARNING last insert id 1058
+2017-09-06 11:38:59,453 mysqlutils.py[line:155] WARNING last insert id 1059
+2017-09-06 11:38:59,492 mysqlutils.py[line:155] WARNING last insert id 1060
+2017-09-06 11:38:59,532 mysqlutils.py[line:155] WARNING last insert id 1061
+2017-09-06 11:38:59,566 mysqlutils.py[line:155] WARNING last insert id 1062
+2017-09-06 11:38:59,608 mysqlutils.py[line:155] WARNING last insert id 1063
+2017-09-06 11:38:59,667 mysqlutils.py[line:155] WARNING last insert id 1064
+2017-09-06 11:38:59,700 mysqlutils.py[line:155] WARNING last insert id 1065
+2017-09-06 11:38:59,733 mysqlutils.py[line:155] WARNING last insert id 1066
+2017-09-06 11:38:59,766 mysqlutils.py[line:155] WARNING last insert id 1067
+2017-09-06 11:38:59,809 mysqlutils.py[line:155] WARNING last insert id 1068
+2017-09-06 11:38:59,851 mysqlutils.py[line:155] WARNING last insert id 1069
+2017-09-06 11:38:59,891 mysqlutils.py[line:155] WARNING last insert id 1070
+2017-09-06 11:38:59,934 mysqlutils.py[line:155] WARNING last insert id 1071
+2017-09-06 11:38:59,993 mysqlutils.py[line:155] WARNING last insert id 1072
+2017-09-06 11:39:00,061 mysqlutils.py[line:155] WARNING last insert id 1073
+2017-09-06 11:39:00,108 mysqlutils.py[line:155] WARNING last insert id 1074
+2017-09-06 11:39:00,151 mysqlutils.py[line:155] WARNING last insert id 1075
+2017-09-06 11:39:00,200 mysqlutils.py[line:155] WARNING last insert id 1076
+2017-09-06 11:39:00,249 mysqlutils.py[line:155] WARNING last insert id 1077
+2017-09-06 11:39:00,295 mysqlutils.py[line:155] WARNING last insert id 1078
+2017-09-06 11:39:00,338 mysqlutils.py[line:155] WARNING last insert id 1079
+2017-09-06 11:39:00,380 mysqlutils.py[line:155] WARNING last insert id 1080
+2017-09-06 11:39:00,421 mysqlutils.py[line:155] WARNING last insert id 1081
+2017-09-06 11:39:00,463 mysqlutils.py[line:155] WARNING last insert id 1082
+2017-09-06 11:39:00,506 mysqlutils.py[line:155] WARNING last insert id 1083
+2017-09-06 11:39:00,548 mysqlutils.py[line:155] WARNING last insert id 1084
+2017-09-06 11:39:00,605 mysqlutils.py[line:155] WARNING last insert id 1085
+2017-09-06 11:39:00,647 mysqlutils.py[line:155] WARNING last insert id 1086
+2017-09-06 11:39:00,691 mysqlutils.py[line:155] WARNING last insert id 1087
+2017-09-06 11:39:00,726 mysqlutils.py[line:155] WARNING last insert id 1088
+2017-09-06 11:39:00,767 mysqlutils.py[line:155] WARNING last insert id 1089
+2017-09-06 11:39:00,809 mysqlutils.py[line:155] WARNING last insert id 1090
+2017-09-06 11:39:00,851 mysqlutils.py[line:155] WARNING last insert id 1091
+2017-09-06 11:39:00,891 mysqlutils.py[line:155] WARNING last insert id 1092
+2017-09-06 11:39:00,954 mysqlutils.py[line:155] WARNING last insert id 1093
+2017-09-06 11:39:00,993 mysqlutils.py[line:155] WARNING last insert id 1094
+2017-09-06 11:39:01,046 mysqlutils.py[line:155] WARNING last insert id 1095
+2017-09-06 11:39:01,085 mysqlutils.py[line:155] WARNING last insert id 1096
+2017-09-06 11:39:01,153 mysqlutils.py[line:155] WARNING last insert id 1097
+2017-09-06 11:39:01,194 mysqlutils.py[line:155] WARNING last insert id 1098
+2017-09-06 11:39:01,236 mysqlutils.py[line:155] WARNING last insert id 1099
+2017-09-06 11:39:01,276 mysqlutils.py[line:155] WARNING last insert id 1100
+2017-09-06 11:39:01,398 mysqlutils.py[line:155] WARNING last insert id 1101
+2017-09-06 11:39:01,453 mysqlutils.py[line:155] WARNING last insert id 1102
+2017-09-06 11:39:01,500 mysqlutils.py[line:155] WARNING last insert id 1103
+2017-09-06 11:39:01,549 mysqlutils.py[line:155] WARNING last insert id 1104
+2017-09-06 11:39:01,589 mysqlutils.py[line:155] WARNING last insert id 1105
+2017-09-06 11:39:01,625 mysqlutils.py[line:155] WARNING last insert id 1106
+2017-09-06 11:39:01,667 mysqlutils.py[line:155] WARNING last insert id 1107
+2017-09-06 11:39:01,710 mysqlutils.py[line:155] WARNING last insert id 1108
+2017-09-06 11:39:01,750 mysqlutils.py[line:155] WARNING last insert id 1109
+2017-09-06 11:39:01,862 mysqlutils.py[line:155] WARNING last insert id 1110
+2017-09-06 11:39:01,911 mysqlutils.py[line:155] WARNING last insert id 1111
+2017-09-06 11:39:01,963 mysqlutils.py[line:155] WARNING last insert id 1112
+2017-09-06 11:39:02,032 mysqlutils.py[line:155] WARNING last insert id 1113
+2017-09-06 11:39:02,078 mysqlutils.py[line:155] WARNING last insert id 1114
+2017-09-06 11:39:02,117 mysqlutils.py[line:155] WARNING last insert id 1115
+2017-09-06 11:39:02,158 mysqlutils.py[line:155] WARNING last insert id 1116
+2017-09-06 11:39:02,217 mysqlutils.py[line:155] WARNING last insert id 1117
+2017-09-06 11:39:02,250 mysqlutils.py[line:155] WARNING last insert id 1118
+2017-09-06 11:39:02,305 mysqlutils.py[line:155] WARNING last insert id 1119
+2017-09-06 11:39:02,362 mysqlutils.py[line:155] WARNING last insert id 1120
+2017-09-06 11:39:02,403 mysqlutils.py[line:155] WARNING last insert id 1121
+2017-09-06 11:39:02,444 mysqlutils.py[line:155] WARNING last insert id 1122
+2017-09-06 11:39:02,490 mysqlutils.py[line:155] WARNING last insert id 1123
+2017-09-06 11:39:02,529 mysqlutils.py[line:155] WARNING last insert id 1124
+2017-09-06 11:39:02,569 mysqlutils.py[line:155] WARNING last insert id 1125
+2017-09-06 11:39:02,611 mysqlutils.py[line:155] WARNING last insert id 1126
+2017-09-06 11:39:02,661 mysqlutils.py[line:155] WARNING last insert id 1127
+2017-09-06 11:39:02,710 mysqlutils.py[line:155] WARNING last insert id 1128
+2017-09-06 11:39:02,780 mysqlutils.py[line:155] WARNING last insert id 1129
+2017-09-06 11:39:02,819 mysqlutils.py[line:155] WARNING last insert id 1130
+2017-09-06 11:39:02,858 mysqlutils.py[line:155] WARNING last insert id 1131
+2017-09-06 11:39:02,880 basestockyoy.py[line:121] INFO finish com code 14
+2017-09-06 11:39:03,000 basestockyoy.py[line:92] INFO perform com code of yoy 15
+2017-09-06 11:39:03,134 mysqlutils.py[line:155] WARNING last insert id 1132
+2017-09-06 11:39:03,187 mysqlutils.py[line:155] WARNING last insert id 1133
+2017-09-06 11:39:03,232 mysqlutils.py[line:155] WARNING last insert id 1134
+2017-09-06 11:39:03,267 mysqlutils.py[line:155] WARNING last insert id 1135
+2017-09-06 11:39:03,322 mysqlutils.py[line:155] WARNING last insert id 1136
+2017-09-06 11:39:03,371 mysqlutils.py[line:155] WARNING last insert id 1137
+2017-09-06 11:39:03,421 mysqlutils.py[line:155] WARNING last insert id 1138
+2017-09-06 11:39:03,473 mysqlutils.py[line:155] WARNING last insert id 1139
+2017-09-06 11:39:03,509 mysqlutils.py[line:155] WARNING last insert id 1140
+2017-09-06 11:39:03,551 mysqlutils.py[line:155] WARNING last insert id 1141
+2017-09-06 11:39:03,592 mysqlutils.py[line:155] WARNING last insert id 1142
+2017-09-06 11:39:03,627 mysqlutils.py[line:155] WARNING last insert id 1143
+2017-09-06 11:39:03,684 mysqlutils.py[line:155] WARNING last insert id 1144
+2017-09-06 11:39:03,736 mysqlutils.py[line:155] WARNING last insert id 1145
+2017-09-06 11:39:03,776 mysqlutils.py[line:155] WARNING last insert id 1146
+2017-09-06 11:39:03,831 mysqlutils.py[line:155] WARNING last insert id 1147
+2017-09-06 11:39:03,869 mysqlutils.py[line:155] WARNING last insert id 1148
+2017-09-06 11:39:03,914 mysqlutils.py[line:155] WARNING last insert id 1149
+2017-09-06 11:39:03,980 mysqlutils.py[line:155] WARNING last insert id 1150
+2017-09-06 11:39:04,043 mysqlutils.py[line:155] WARNING last insert id 1151
+2017-09-06 11:39:04,094 mysqlutils.py[line:155] WARNING last insert id 1152
+2017-09-06 11:39:04,147 mysqlutils.py[line:155] WARNING last insert id 1153
+2017-09-06 11:39:04,194 mysqlutils.py[line:155] WARNING last insert id 1154
+2017-09-06 11:39:04,242 mysqlutils.py[line:155] WARNING last insert id 1155
+2017-09-06 11:39:04,279 mysqlutils.py[line:155] WARNING last insert id 1156
+2017-09-06 11:39:04,319 mysqlutils.py[line:155] WARNING last insert id 1157
+2017-09-06 11:39:04,359 mysqlutils.py[line:155] WARNING last insert id 1158
+2017-09-06 11:39:04,410 mysqlutils.py[line:155] WARNING last insert id 1159
+2017-09-06 11:39:04,451 mysqlutils.py[line:155] WARNING last insert id 1160
+2017-09-06 11:39:04,540 mysqlutils.py[line:155] WARNING last insert id 1161
+2017-09-06 11:39:04,588 mysqlutils.py[line:155] WARNING last insert id 1162
+2017-09-06 11:39:04,638 mysqlutils.py[line:155] WARNING last insert id 1163
+2017-09-06 11:39:04,704 mysqlutils.py[line:155] WARNING last insert id 1164
+2017-09-06 11:39:04,753 mysqlutils.py[line:155] WARNING last insert id 1165
+2017-09-06 11:39:04,829 mysqlutils.py[line:155] WARNING last insert id 1166
+2017-09-06 11:39:04,871 mysqlutils.py[line:155] WARNING last insert id 1167
+2017-09-06 11:39:04,971 mysqlutils.py[line:155] WARNING last insert id 1168
+2017-09-06 11:39:05,038 mysqlutils.py[line:155] WARNING last insert id 1169
+2017-09-06 11:39:05,079 mysqlutils.py[line:155] WARNING last insert id 1170
+2017-09-06 11:39:05,124 mysqlutils.py[line:155] WARNING last insert id 1171
+2017-09-06 11:39:05,171 mysqlutils.py[line:155] WARNING last insert id 1172
+2017-09-06 11:39:05,210 mysqlutils.py[line:155] WARNING last insert id 1173
+2017-09-06 11:39:05,259 mysqlutils.py[line:155] WARNING last insert id 1174
+2017-09-06 11:39:05,305 mysqlutils.py[line:155] WARNING last insert id 1175
+2017-09-06 11:39:05,401 mysqlutils.py[line:155] WARNING last insert id 1176
+2017-09-06 11:39:05,444 mysqlutils.py[line:155] WARNING last insert id 1177
+2017-09-06 11:39:05,484 mysqlutils.py[line:155] WARNING last insert id 1178
+2017-09-06 11:39:05,546 mysqlutils.py[line:155] WARNING last insert id 1179
+2017-09-06 11:39:05,596 mysqlutils.py[line:155] WARNING last insert id 1180
+2017-09-06 11:39:05,644 mysqlutils.py[line:155] WARNING last insert id 1181
+2017-09-06 11:39:05,686 mysqlutils.py[line:155] WARNING last insert id 1182
+2017-09-06 11:39:05,726 mysqlutils.py[line:155] WARNING last insert id 1183
+2017-09-06 11:39:05,779 mysqlutils.py[line:155] WARNING last insert id 1184
+2017-09-06 11:39:05,819 mysqlutils.py[line:155] WARNING last insert id 1185
+2017-09-06 11:39:05,861 mysqlutils.py[line:155] WARNING last insert id 1186
+2017-09-06 11:39:05,901 mysqlutils.py[line:155] WARNING last insert id 1187
+2017-09-06 11:39:05,944 mysqlutils.py[line:155] WARNING last insert id 1188
+2017-09-06 11:39:06,010 mysqlutils.py[line:155] WARNING last insert id 1189
+2017-09-06 11:39:06,055 mysqlutils.py[line:155] WARNING last insert id 1190
+2017-09-06 11:39:06,118 mysqlutils.py[line:155] WARNING last insert id 1191
+2017-09-06 11:39:06,151 mysqlutils.py[line:155] WARNING last insert id 1192
+2017-09-06 11:39:06,193 mysqlutils.py[line:155] WARNING last insert id 1193
+2017-09-06 11:39:06,237 mysqlutils.py[line:155] WARNING last insert id 1194
+2017-09-06 11:39:06,289 mysqlutils.py[line:155] WARNING last insert id 1195
+2017-09-06 11:39:06,326 mysqlutils.py[line:155] WARNING last insert id 1196
+2017-09-06 11:39:06,380 mysqlutils.py[line:155] WARNING last insert id 1197
+2017-09-06 11:39:06,421 mysqlutils.py[line:155] WARNING last insert id 1198
+2017-09-06 11:39:06,463 mysqlutils.py[line:155] WARNING last insert id 1199
+2017-09-06 11:39:06,520 mysqlutils.py[line:155] WARNING last insert id 1200
+2017-09-06 11:39:06,565 mysqlutils.py[line:155] WARNING last insert id 1201
+2017-09-06 11:39:06,640 mysqlutils.py[line:155] WARNING last insert id 1202
+2017-09-06 11:39:06,687 mysqlutils.py[line:155] WARNING last insert id 1203
+2017-09-06 11:39:06,740 mysqlutils.py[line:155] WARNING last insert id 1204
+2017-09-06 11:39:06,776 mysqlutils.py[line:155] WARNING last insert id 1205
+2017-09-06 11:39:06,831 mysqlutils.py[line:155] WARNING last insert id 1206
+2017-09-06 11:39:06,868 mysqlutils.py[line:155] WARNING last insert id 1207
+2017-09-06 11:39:06,911 mysqlutils.py[line:155] WARNING last insert id 1208
+2017-09-06 11:39:06,943 mysqlutils.py[line:155] WARNING last insert id 1209
+2017-09-06 11:39:06,986 mysqlutils.py[line:155] WARNING last insert id 1210
+2017-09-06 11:39:07,006 basestockyoy.py[line:121] INFO finish com code 15
+2017-09-06 11:39:07,108 basestockyoy.py[line:92] INFO perform com code of yoy 16
+2017-09-06 11:39:07,453 mysqlutils.py[line:155] WARNING last insert id 1211
+2017-09-06 11:39:07,532 mysqlutils.py[line:155] WARNING last insert id 1212
+2017-09-06 11:39:07,585 mysqlutils.py[line:155] WARNING last insert id 1213
+2017-09-06 11:39:07,625 mysqlutils.py[line:155] WARNING last insert id 1214
+2017-09-06 11:39:07,690 mysqlutils.py[line:155] WARNING last insert id 1215
+2017-09-06 11:39:07,730 mysqlutils.py[line:155] WARNING last insert id 1216
+2017-09-06 11:39:07,792 mysqlutils.py[line:155] WARNING last insert id 1217
+2017-09-06 11:39:07,829 mysqlutils.py[line:155] WARNING last insert id 1218
+2017-09-06 11:39:07,871 mysqlutils.py[line:155] WARNING last insert id 1219
+2017-09-06 11:39:07,917 mysqlutils.py[line:155] WARNING last insert id 1220
+2017-09-06 11:39:07,959 mysqlutils.py[line:155] WARNING last insert id 1221
+2017-09-06 11:39:08,086 mysqlutils.py[line:155] WARNING last insert id 1222
+2017-09-06 11:39:08,150 mysqlutils.py[line:155] WARNING last insert id 1223
+2017-09-06 11:39:08,200 mysqlutils.py[line:155] WARNING last insert id 1224
+2017-09-06 11:39:08,250 mysqlutils.py[line:155] WARNING last insert id 1225
+2017-09-06 11:39:08,299 mysqlutils.py[line:155] WARNING last insert id 1226
+2017-09-06 11:39:08,342 mysqlutils.py[line:155] WARNING last insert id 1227
+2017-09-06 11:39:08,385 mysqlutils.py[line:155] WARNING last insert id 1228
+2017-09-06 11:39:08,436 mysqlutils.py[line:155] WARNING last insert id 1229
+2017-09-06 11:39:08,476 mysqlutils.py[line:155] WARNING last insert id 1230
+2017-09-06 11:39:08,516 mysqlutils.py[line:155] WARNING last insert id 1231
+2017-09-06 11:39:08,625 mysqlutils.py[line:155] WARNING last insert id 1232
+2017-09-06 11:39:08,816 mysqlutils.py[line:155] WARNING last insert id 1233
+2017-09-06 11:39:08,875 mysqlutils.py[line:155] WARNING last insert id 1234
+2017-09-06 11:39:08,924 mysqlutils.py[line:155] WARNING last insert id 1235
+2017-09-06 11:39:08,973 mysqlutils.py[line:155] WARNING last insert id 1236
+2017-09-06 11:39:09,023 mysqlutils.py[line:155] WARNING last insert id 1237
+2017-09-06 11:39:09,062 mysqlutils.py[line:155] WARNING last insert id 1238
+2017-09-06 11:39:09,105 mysqlutils.py[line:155] WARNING last insert id 1239
+2017-09-06 11:39:09,155 mysqlutils.py[line:155] WARNING last insert id 1240
+2017-09-06 11:39:09,196 mysqlutils.py[line:155] WARNING last insert id 1241
+2017-09-06 11:39:09,237 mysqlutils.py[line:155] WARNING last insert id 1242
+2017-09-06 11:39:09,338 mysqlutils.py[line:155] WARNING last insert id 1243
+2017-09-06 11:39:09,388 mysqlutils.py[line:155] WARNING last insert id 1244
+2017-09-06 11:39:09,430 mysqlutils.py[line:155] WARNING last insert id 1245
+2017-09-06 11:39:09,480 mysqlutils.py[line:155] WARNING last insert id 1246
+2017-09-06 11:39:09,520 mysqlutils.py[line:155] WARNING last insert id 1247
+2017-09-06 11:39:09,563 mysqlutils.py[line:155] WARNING last insert id 1248
+2017-09-06 11:39:09,607 mysqlutils.py[line:155] WARNING last insert id 1249
+2017-09-06 11:39:09,647 mysqlutils.py[line:155] WARNING last insert id 1250
+2017-09-06 11:39:09,687 mysqlutils.py[line:155] WARNING last insert id 1251
+2017-09-06 11:39:09,730 mysqlutils.py[line:155] WARNING last insert id 1252
+2017-09-06 11:39:09,770 mysqlutils.py[line:155] WARNING last insert id 1253
+2017-09-06 11:39:09,805 mysqlutils.py[line:155] WARNING last insert id 1254
+2017-09-06 11:39:09,858 mysqlutils.py[line:155] WARNING last insert id 1255
+2017-09-06 11:39:09,897 mysqlutils.py[line:155] WARNING last insert id 1256
+2017-09-06 11:39:09,948 mysqlutils.py[line:155] WARNING last insert id 1257
+2017-09-06 11:39:10,078 mysqlutils.py[line:155] WARNING last insert id 1258
+2017-09-06 11:39:10,124 mysqlutils.py[line:155] WARNING last insert id 1259
+2017-09-06 11:39:10,165 mysqlutils.py[line:155] WARNING last insert id 1260
+2017-09-06 11:39:10,209 mysqlutils.py[line:155] WARNING last insert id 1261
+2017-09-06 11:39:10,247 mysqlutils.py[line:155] WARNING last insert id 1262
+2017-09-06 11:39:10,346 mysqlutils.py[line:155] WARNING last insert id 1263
+2017-09-06 11:39:10,398 mysqlutils.py[line:155] WARNING last insert id 1264
+2017-09-06 11:39:10,500 mysqlutils.py[line:155] WARNING last insert id 1265
+2017-09-06 11:39:10,539 mysqlutils.py[line:155] WARNING last insert id 1266
+2017-09-06 11:39:10,581 mysqlutils.py[line:155] WARNING last insert id 1267
+2017-09-06 11:39:10,621 mysqlutils.py[line:155] WARNING last insert id 1268
+2017-09-06 11:39:10,663 mysqlutils.py[line:155] WARNING last insert id 1269
+2017-09-06 11:39:10,703 mysqlutils.py[line:155] WARNING last insert id 1270
+2017-09-06 11:39:10,739 mysqlutils.py[line:155] WARNING last insert id 1271
+2017-09-06 11:39:10,782 mysqlutils.py[line:155] WARNING last insert id 1272
+2017-09-06 11:39:10,822 mysqlutils.py[line:155] WARNING last insert id 1273
+2017-09-06 11:39:10,871 mysqlutils.py[line:155] WARNING last insert id 1274
+2017-09-06 11:39:10,913 mysqlutils.py[line:155] WARNING last insert id 1275
+2017-09-06 11:39:10,947 mysqlutils.py[line:155] WARNING last insert id 1276
+2017-09-06 11:39:10,989 mysqlutils.py[line:155] WARNING last insert id 1277
+2017-09-06 11:39:11,032 mysqlutils.py[line:155] WARNING last insert id 1278
+2017-09-06 11:39:11,072 mysqlutils.py[line:155] WARNING last insert id 1279
+2017-09-06 11:39:11,147 mysqlutils.py[line:155] WARNING last insert id 1280
+2017-09-06 11:39:11,187 mysqlutils.py[line:155] WARNING last insert id 1281
+2017-09-06 11:39:11,220 mysqlutils.py[line:155] WARNING last insert id 1282
+2017-09-06 11:39:11,299 mysqlutils.py[line:155] WARNING last insert id 1283
+2017-09-06 11:39:11,338 mysqlutils.py[line:155] WARNING last insert id 1284
+2017-09-06 11:39:11,391 mysqlutils.py[line:155] WARNING last insert id 1285
+2017-09-06 11:39:11,441 mysqlutils.py[line:155] WARNING last insert id 1286
+2017-09-06 11:39:11,480 mysqlutils.py[line:155] WARNING last insert id 1287
+2017-09-06 11:39:11,522 mysqlutils.py[line:155] WARNING last insert id 1288
+2017-09-06 11:39:11,571 mysqlutils.py[line:155] WARNING last insert id 1289
+2017-09-06 11:39:11,605 mysqlutils.py[line:155] WARNING last insert id 1290
+2017-09-06 11:39:11,657 mysqlutils.py[line:155] WARNING last insert id 1291
+2017-09-06 11:39:11,713 mysqlutils.py[line:155] WARNING last insert id 1292
+2017-09-06 11:39:11,742 basestockyoy.py[line:121] INFO finish com code 16
+2017-09-06 11:39:11,842 basestockyoy.py[line:92] INFO perform com code of yoy 17
+2017-09-06 11:39:12,144 mysqlutils.py[line:155] WARNING last insert id 1293
+2017-09-06 11:39:12,236 mysqlutils.py[line:155] WARNING last insert id 1294
+2017-09-06 11:39:12,292 mysqlutils.py[line:155] WARNING last insert id 1295
+2017-09-06 11:39:12,329 mysqlutils.py[line:155] WARNING last insert id 1296
+2017-09-06 11:39:12,398 mysqlutils.py[line:155] WARNING last insert id 1297
+2017-09-06 11:39:12,440 mysqlutils.py[line:155] WARNING last insert id 1298
+2017-09-06 11:39:12,519 mysqlutils.py[line:155] WARNING last insert id 1299
+2017-09-06 11:39:12,566 mysqlutils.py[line:155] WARNING last insert id 1300
+2017-09-06 11:39:12,627 mysqlutils.py[line:155] WARNING last insert id 1301
+2017-09-06 11:39:12,693 mysqlutils.py[line:155] WARNING last insert id 1302
+2017-09-06 11:39:12,749 mysqlutils.py[line:155] WARNING last insert id 1303
+2017-09-06 11:39:12,790 mysqlutils.py[line:155] WARNING last insert id 1304
+2017-09-06 11:39:12,832 mysqlutils.py[line:155] WARNING last insert id 1305
+2017-09-06 11:39:12,871 mysqlutils.py[line:155] WARNING last insert id 1306
+2017-09-06 11:39:12,923 mysqlutils.py[line:155] WARNING last insert id 1307
+2017-09-06 11:39:12,984 mysqlutils.py[line:155] WARNING last insert id 1308
+2017-09-06 11:39:13,063 mysqlutils.py[line:155] WARNING last insert id 1309
+2017-09-06 11:39:13,118 mysqlutils.py[line:155] WARNING last insert id 1310
+2017-09-06 11:39:13,181 mysqlutils.py[line:155] WARNING last insert id 1311
+2017-09-06 11:39:13,223 mysqlutils.py[line:155] WARNING last insert id 1312
+2017-09-06 11:39:13,273 mysqlutils.py[line:155] WARNING last insert id 1313
+2017-09-06 11:39:13,334 mysqlutils.py[line:155] WARNING last insert id 1314
+2017-09-06 11:39:13,375 mysqlutils.py[line:155] WARNING last insert id 1315
+2017-09-06 11:39:13,479 mysqlutils.py[line:155] WARNING last insert id 1316
+2017-09-06 11:39:13,515 mysqlutils.py[line:155] WARNING last insert id 1317
+2017-09-06 11:39:13,555 mysqlutils.py[line:155] WARNING last insert id 1318
+2017-09-06 11:39:13,609 mysqlutils.py[line:155] WARNING last insert id 1319
+2017-09-06 11:39:13,667 mysqlutils.py[line:155] WARNING last insert id 1320
+2017-09-06 11:39:13,706 mysqlutils.py[line:155] WARNING last insert id 1321
+2017-09-06 11:39:13,759 mysqlutils.py[line:155] WARNING last insert id 1322
+2017-09-06 11:39:13,799 mysqlutils.py[line:155] WARNING last insert id 1323
+2017-09-06 11:39:13,842 mysqlutils.py[line:155] WARNING last insert id 1324
+2017-09-06 11:39:13,884 mysqlutils.py[line:155] WARNING last insert id 1325
+2017-09-06 11:39:13,943 mysqlutils.py[line:155] WARNING last insert id 1326
+2017-09-06 11:39:14,056 mysqlutils.py[line:155] WARNING last insert id 1327
+2017-09-06 11:39:14,098 mysqlutils.py[line:155] WARNING last insert id 1328
+2017-09-06 11:39:14,180 mysqlutils.py[line:155] WARNING last insert id 1329
+2017-09-06 11:39:14,234 mysqlutils.py[line:155] WARNING last insert id 1330
+2017-09-06 11:39:14,275 mysqlutils.py[line:155] WARNING last insert id 1331
+2017-09-06 11:39:14,335 mysqlutils.py[line:155] WARNING last insert id 1332
+2017-09-06 11:39:14,378 mysqlutils.py[line:155] WARNING last insert id 1333
+2017-09-06 11:39:14,424 mysqlutils.py[line:155] WARNING last insert id 1334
+2017-09-06 11:39:14,473 mysqlutils.py[line:155] WARNING last insert id 1335
+2017-09-06 11:39:14,526 mysqlutils.py[line:155] WARNING last insert id 1336
+2017-09-06 11:39:14,585 mysqlutils.py[line:155] WARNING last insert id 1337
+2017-09-06 11:39:14,634 mysqlutils.py[line:155] WARNING last insert id 1338
+2017-09-06 11:39:14,673 mysqlutils.py[line:155] WARNING last insert id 1339
+2017-09-06 11:39:14,714 mysqlutils.py[line:155] WARNING last insert id 1340
+2017-09-06 11:39:14,756 mysqlutils.py[line:155] WARNING last insert id 1341
+2017-09-06 11:39:14,789 mysqlutils.py[line:155] WARNING last insert id 1342
+2017-09-06 11:39:14,868 mysqlutils.py[line:155] WARNING last insert id 1343
+2017-09-06 11:39:14,907 mysqlutils.py[line:155] WARNING last insert id 1344
+2017-09-06 11:39:14,960 mysqlutils.py[line:155] WARNING last insert id 1345
+2017-09-06 11:39:14,997 mysqlutils.py[line:155] WARNING last insert id 1346
+2017-09-06 11:39:15,065 mysqlutils.py[line:155] WARNING last insert id 1347
+2017-09-06 11:39:15,115 mysqlutils.py[line:155] WARNING last insert id 1348
+2017-09-06 11:39:15,174 mysqlutils.py[line:155] WARNING last insert id 1349
+2017-09-06 11:39:15,226 mysqlutils.py[line:155] WARNING last insert id 1350
+2017-09-06 11:39:15,265 mysqlutils.py[line:155] WARNING last insert id 1351
+2017-09-06 11:39:15,316 mysqlutils.py[line:155] WARNING last insert id 1352
+2017-09-06 11:39:15,355 mysqlutils.py[line:155] WARNING last insert id 1353
+2017-09-06 11:39:15,388 mysqlutils.py[line:155] WARNING last insert id 1354
+2017-09-06 11:39:15,447 mysqlutils.py[line:155] WARNING last insert id 1355
+2017-09-06 11:39:15,490 mysqlutils.py[line:155] WARNING last insert id 1356
+2017-09-06 11:39:15,530 mysqlutils.py[line:155] WARNING last insert id 1357
+2017-09-06 11:39:15,565 mysqlutils.py[line:155] WARNING last insert id 1358
+2017-09-06 11:39:15,618 mysqlutils.py[line:155] WARNING last insert id 1359
+2017-09-06 11:39:15,671 mysqlutils.py[line:155] WARNING last insert id 1360
+2017-09-06 11:39:15,713 mysqlutils.py[line:155] WARNING last insert id 1361
+2017-09-06 11:39:15,747 mysqlutils.py[line:155] WARNING last insert id 1362
+2017-09-06 11:39:15,780 mysqlutils.py[line:155] WARNING last insert id 1363
+2017-09-06 11:39:15,822 mysqlutils.py[line:155] WARNING last insert id 1364
+2017-09-06 11:39:15,857 mysqlutils.py[line:155] WARNING last insert id 1365
+2017-09-06 11:39:15,915 mysqlutils.py[line:155] WARNING last insert id 1366
+2017-09-06 11:39:15,984 mysqlutils.py[line:155] WARNING last insert id 1367
+2017-09-06 11:39:16,151 mysqlutils.py[line:155] WARNING last insert id 1368
+2017-09-06 11:39:16,197 mysqlutils.py[line:155] WARNING last insert id 1369
+2017-09-06 11:39:16,256 mysqlutils.py[line:155] WARNING last insert id 1370
+2017-09-06 11:39:16,309 mysqlutils.py[line:155] WARNING last insert id 1371
+2017-09-06 11:39:16,365 mysqlutils.py[line:155] WARNING last insert id 1372
+2017-09-06 11:39:16,394 basestockyoy.py[line:121] INFO finish com code 17
+2017-09-06 11:39:16,494 basestockyoy.py[line:92] INFO perform com code of yoy 18
+2017-09-06 11:39:16,808 mysqlutils.py[line:155] WARNING last insert id 1373
+2017-09-06 11:39:16,848 mysqlutils.py[line:155] WARNING last insert id 1374
+2017-09-06 11:39:16,890 mysqlutils.py[line:155] WARNING last insert id 1375
+2017-09-06 11:39:16,931 mysqlutils.py[line:155] WARNING last insert id 1376
+2017-09-06 11:39:16,983 mysqlutils.py[line:155] WARNING last insert id 1377
+2017-09-06 11:39:17,025 mysqlutils.py[line:155] WARNING last insert id 1378
+2017-09-06 11:39:17,065 mysqlutils.py[line:155] WARNING last insert id 1379
+2017-09-06 11:39:17,117 mysqlutils.py[line:155] WARNING last insert id 1380
+2017-09-06 11:39:17,157 mysqlutils.py[line:155] WARNING last insert id 1381
+2017-09-06 11:39:17,211 mysqlutils.py[line:155] WARNING last insert id 1382
+2017-09-06 11:39:17,269 mysqlutils.py[line:155] WARNING last insert id 1383
+2017-09-06 11:39:17,411 mysqlutils.py[line:155] WARNING last insert id 1384
+2017-09-06 11:39:17,493 mysqlutils.py[line:155] WARNING last insert id 1385
+2017-09-06 11:39:17,621 mysqlutils.py[line:155] WARNING last insert id 1386
+2017-09-06 11:39:17,667 mysqlutils.py[line:155] WARNING last insert id 1387
+2017-09-06 11:39:17,737 mysqlutils.py[line:155] WARNING last insert id 1388
+2017-09-06 11:39:17,803 mysqlutils.py[line:155] WARNING last insert id 1389
+2017-09-06 11:39:17,852 mysqlutils.py[line:155] WARNING last insert id 1390
+2017-09-06 11:39:17,901 mysqlutils.py[line:155] WARNING last insert id 1391
+2017-09-06 11:39:17,941 mysqlutils.py[line:155] WARNING last insert id 1392
+2017-09-06 11:39:17,990 mysqlutils.py[line:155] WARNING last insert id 1393
+2017-09-06 11:39:18,065 mysqlutils.py[line:155] WARNING last insert id 1394
+2017-09-06 11:39:18,151 mysqlutils.py[line:155] WARNING last insert id 1395
+2017-09-06 11:39:18,194 mysqlutils.py[line:155] WARNING last insert id 1396
